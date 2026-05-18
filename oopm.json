@@ -1,0 +1,1125 @@
+[
+  {
+    "unit": "UNIT-01",
+    "questions": [
+      {
+        "serial_number": "Q.1",
+        "question_text": "Compare procedural programming with object oriented programming.",
+        "exam_year_month": "December 2025",
+        "original_question_number": "Q.1(a)",
+        "table": null,
+        "matrix": null,
+        "graph": null
+      },
+      {
+        "serial_number": "Q.2",
+        "question_text": "Explain features, merits and demerits of Object Oriented paradigm.",
+        "exam_year_month": "December 2025",
+        "original_question_number": "Q.1(b)",
+        "table": null,
+        "matrix": null,
+        "graph": null
+      },
+      {
+        "serial_number": "Q.3",
+        "question_text": "Explain object model and basic elements of OOPS.",
+        "exam_year_month": "December 2025",
+        "original_question_number": "Q.2(a)",
+        "table": null,
+        "matrix": null,
+        "graph": null
+      },
+      {
+        "serial_number": "Q.4",
+        "question_text": "Discuss control statements, loops and arrays used in OOPS languages.",
+        "exam_year_month": "December 2025",
+        "original_question_number": "Q.2(b)",
+        "table": null,
+        "matrix": null,
+        "graph": null
+      },
+      {
+        "serial_number": "Q.5",
+        "question_text": "Compare Object-Oriented Programming (OOP), with Procedural Programming, highlighting at least three differences. Discuss the features of the Object-Oriented Paradigm, mentioning its merits and demerits.",
+        "exam_year_month": "December 2024",
+        "original_question_number": "Q.1(a)",
+        "table": null,
+        "matrix": null,
+        "graph": null
+      },
+      {
+        "serial_number": "Q.6",
+        "question_text": "Discuss the merits and demerits of Object-Oriented Methodology. Provide real-world scenarios where OOP is beneficial and where it may not be ideal.",
+        "exam_year_month": "December 2024",
+        "original_question_number": "Q.6(a)",
+        "table": null,
+        "matrix": null,
+        "graph": null
+      },
+      {
+        "serial_number": "Q.7",
+        "question_text": "Compare the object-oriented programming language with procedure programming language.",
+        "exam_year_month": "June 2023",
+        "original_question_number": "Q.1(a)",
+        "table": null,
+        "matrix": null,
+        "graph": null
+      },
+      {
+        "serial_number": "Q.8",
+        "question_text": "Explain features of object-oriented programming with giving suitable examples.",
+        "exam_year_month": "June 2023",
+        "original_question_number": "Q.1(b)",
+        "table": null,
+        "matrix": null,
+        "graph": null
+      },
+      {
+        "serial_number": "Q.9",
+        "question_text": "write a program to create a file called Emp.dat with employee number, name, salary, department, deductions, and allowances as per record fields. Open a file, read the record. Calculate the net salary and write it back to the same file.",
+        "exam_year_month": "June 2023",
+        "original_question_number": "Q.7(a)",
+        "table": null,
+        "matrix": null,
+        "graph": null
+      },
+      {
+        "serial_number": "Q.10",
+        "question_text": "What are the functions supported by file stream classes for performing I/O operations?",
+        "exam_year_month": "June 2023",
+        "original_question_number": "Q.7(b)",
+        "table": null,
+        "matrix": null,
+        "graph": null
+      },
+      {
+        "serial_number": "Q.11",
+        "question_text": "Object Model",
+        "exam_year_month": "June 2023",
+        "original_question_number": "Q.8(b)",
+        "table": null,
+        "matrix": null,
+        "graph": null
+      },
+      {
+        "serial_number": "Q.12",
+        "question_text": "What do you understand by Object Oriented Programming? What are the advantages of programming using object oriented? Explain and define various OOP concepts in brief.",
+        "exam_year_month": "December 2023",
+        "original_question_number": "Q.1(a)",
+        "table": null,
+        "matrix": null,
+        "graph": null
+      },
+      {
+        "serial_number": "Q.13",
+        "question_text": "How procedure oriented programming approach is different with object oriented programming approach?",
+        "exam_year_month": "December 2023",
+        "original_question_number": "Q.1(b)",
+        "table": null,
+        "matrix": null,
+        "graph": null
+      },
+      {
+        "serial_number": "Q.14",
+        "question_text": "Draw and explain object diagram for hospital management system.",
+        "exam_year_month": "December 2023",
+        "original_question_number": "Q.2(a)",
+        "table": null,
+        "matrix": null,
+        "graph": null
+      },
+      {
+        "serial_number": "Q.15",
+        "question_text": "What is Object Oriented Programming? Write merits and demerits of OOPs and also write applications of object-oriented programming.",
+        "exam_year_month": "November 2022",
+        "original_question_number": "Q.1(a)",
+        "table": null,
+        "matrix": null,
+        "graph": null
+      },
+      {
+        "serial_number": "Q.16",
+        "question_text": "File Handling",
+        "exam_year_month": "November 2022",
+        "original_question_number": "Q.8(ii)",
+        "table": null,
+        "matrix": null,
+        "graph": null
+      },
+      {
+        "serial_number": "Q.17",
+        "question_text": "State the important features of object oriented programming.",
+        "exam_year_month": "December 2020",
+        "original_question_number": "Q.1(a)",
+        "table": null,
+        "matrix": null,
+        "graph": null
+      },
+      {
+        "serial_number": "Q.18",
+        "question_text": "Compare the object oriented system with procedure oriented system.",
+        "exam_year_month": "December 2020",
+        "original_question_number": "Q.1(b)",
+        "table": null,
+        "matrix": null,
+        "graph": null
+      },
+      {
+        "serial_number": "Q.19",
+        "question_text": "What are models of object modeling techniques?",
+        "exam_year_month": "December 2020",
+        "original_question_number": "Q.2(a)",
+        "table": null,
+        "matrix": null,
+        "graph": null
+      },
+      {
+        "serial_number": "Q.20",
+        "question_text": "Explain the following models-object, dynamic and functional model.",
+        "exam_year_month": "December 2020",
+        "original_question_number": "Q.2(b)",
+        "table": null,
+        "matrix": null,
+        "graph": null
+      },
+      {
+        "serial_number": "Q.21",
+        "question_text": "What do you understand by object oriented programming? What are the advantages of programming using object oriented? Explain and define various OOP concepts in brief.",
+        "exam_year_month": "June 2020",
+        "original_question_number": "Q.1(a)",
+        "table": null,
+        "matrix": null,
+        "graph": null
+      },
+      {
+        "serial_number": "Q.22",
+        "question_text": "Explain the difference between procedural programming language and object oriented programming language. What are the merits and demerits object oriented methodologies explain them.",
+        "exam_year_month": "June 2020",
+        "original_question_number": "Q.1(b)",
+        "table": null,
+        "matrix": null,
+        "graph": null
+      },
+      {
+        "serial_number": "Q.23",
+        "question_text": "Discuss the role of object model regarding object oriented technology and why and when it is beneficial to design object model for any task?",
+        "exam_year_month": "June 2020",
+        "original_question_number": "Q.2(a)",
+        "table": null,
+        "matrix": null,
+        "graph": null
+      },
+      {
+        "serial_number": "Q.24",
+        "question_text": "What do you mean by the term IO processing? What are the different I/O Library Header Files? Explain the “Iostream.h’ file in detail. Write the functionality of the standard Output Stream (cout).",
+        "exam_year_month": "June 2020",
+        "original_question_number": "Q.2(b)",
+        "table": null,
+        "matrix": null,
+        "graph": null
+      }
+    ]
+  },
+  {
+    "unit": "UNIT-02",
+    "questions": [
+      {
+        "serial_number": "Q.25",
+        "question_text": "Define encapsulation and data abstraction.",
+        "exam_year_month": "December 2025",
+        "original_question_number": "Q.3(a)",
+        "table": null,
+        "matrix": null,
+        "graph": null
+      },
+      {
+        "serial_number": "Q.26",
+        "question_text": "Write a C program to demonstrate the concept of Encapsulation by creating a class Student with data members (roll number, name, and marks) and appropriate member functions.",
+        "exam_year_month": "December 2025",
+        "original_question_number": "Q.3(b)",
+        "table": null,
+        "matrix": null,
+        "graph": null
+      },
+      {
+        "serial_number": "Q.27",
+        "question_text": "Explain classes and objects.",
+        "exam_year_month": "December 2025",
+        "original_question_number": "Q.4(a)",
+        "table": null,
+        "matrix": null,
+        "graph": null
+      },
+      {
+        "serial_number": "Q.28",
+        "question_text": "Discuss access modifiers, static members and object life cycle.",
+        "exam_year_month": "December 2025",
+        "original_question_number": "Q.4(b)",
+        "table": null,
+        "matrix": null,
+        "graph": null
+      },
+      {
+        "serial_number": "Q.29",
+        "question_text": "Given a class rectangle with attributes length and width, write methods to calculate the area and perimeter of the rectangle. Also, demonstrate the use of these methods in a sample program.",
+        "exam_year_month": "December 2024",
+        "original_question_number": "Q.1(b)",
+        "table": null,
+        "matrix": null,
+        "graph": null
+      },
+      {
+        "serial_number": "Q.30",
+        "question_text": "Explain the concept of encapsulation and data abstraction in Object-Oriented Programming. How do these concepts enhance software development?",
+        "exam_year_month": "December 2024",
+        "original_question_number": "Q.2(a)",
+        "table": null,
+        "matrix": null,
+        "graph": null
+      },
+      {
+        "serial_number": "Q.31",
+        "question_text": "Explain the role of access modifiers in class design. Compare public, private and protected access levels with examples.",
+        "exam_year_month": "December 2024",
+        "original_question_number": "Q.2(b)",
+        "table": null,
+        "matrix": null,
+        "graph": null
+      },
+      {
+        "serial_number": "Q.32",
+        "question_text": "Discuss the concepts of message passing in OOP. How does message passing facilitate communication between objects?",
+        "exam_year_month": "December 2024",
+        "original_question_number": "Q.6(b)",
+        "table": null,
+        "matrix": null,
+        "graph": null
+      },
+      {
+        "serial_number": "Q.33",
+        "question_text": "What are classes in OOP? Discuss how to identify classes. Create a class student with attributes like name, roll_number, and marks. Write methods to calculate the average marks and display student information. Demonstrate its use in a sample program.",
+        "exam_year_month": "December 2024",
+        "original_question_number": "Q.7(a)",
+        "table": null,
+        "matrix": null,
+        "graph": null
+      },
+      {
+        "serial_number": "Q.34",
+        "question_text": "Explain the concept of Encapsulation and data abstraction in detail. Write a C++ program to show these concepts in object-oriented programming methodology. Define scope and life of any variable.",
+        "exam_year_month": "June 2023",
+        "original_question_number": "Q.2(a)",
+        "table": null,
+        "matrix": null,
+        "graph": null
+      },
+      {
+        "serial_number": "Q.35",
+        "question_text": "What is Message Passing? How it can be achieved in C++ Programming language?",
+        "exam_year_month": "June 2023",
+        "original_question_number": "Q.2(b)",
+        "table": null,
+        "matrix": null,
+        "graph": null
+      },
+      {
+        "serial_number": "Q.36",
+        "question_text": "Discuss the methods of passing an argument in C++. Explain with suitable program.",
+        "exam_year_month": "June 2023",
+        "original_question_number": "Q.6(b)",
+        "table": null,
+        "matrix": null,
+        "graph": null
+      },
+      {
+        "serial_number": "Q.37",
+        "question_text": "Access specifier in C++",
+        "exam_year_month": "June 2023",
+        "original_question_number": "Q.8(c)",
+        "table": null,
+        "matrix": null,
+        "graph": null
+      },
+      {
+        "serial_number": "Q.38",
+        "question_text": "What is constructor and destructor function? Explain with an example.",
+        "exam_year_month": "December 2023",
+        "original_question_number": "Q.4(a)",
+        "table": null,
+        "matrix": null,
+        "graph": null
+      },
+      {
+        "serial_number": "Q.39",
+        "question_text": "Encapsulation and Inheritance",
+        "exam_year_month": "December 2023",
+        "original_question_number": "Q.5(c)",
+        "table": null,
+        "matrix": null,
+        "graph": null
+      },
+      {
+        "serial_number": "Q.40",
+        "question_text": "Access modifiers",
+        "exam_year_month": "December 2023",
+        "original_question_number": "Q.8(a)",
+        "table": null,
+        "matrix": null,
+        "graph": null
+      },
+      {
+        "serial_number": "Q.41",
+        "question_text": "Abstraction",
+        "exam_year_month": "December 2023",
+        "original_question_number": "Q.8(b)",
+        "table": null,
+        "matrix": null,
+        "graph": null
+      },
+      {
+        "serial_number": "Q.42",
+        "question_text": "What do you mean by the term class and object? What is the relation and difference between these two? Write an example (syntax) to define a class in C++. Explain state, behavior, and identity of object in brief.",
+        "exam_year_month": "November 2022",
+        "original_question_number": "Q.2(a)",
+        "table": null,
+        "matrix": null,
+        "graph": null
+      },
+      {
+        "serial_number": "Q.43",
+        "question_text": "Discuss construction and destruction of an object. Write a program to explain it.",
+        "exam_year_month": "November 2022",
+        "original_question_number": "Q.2(b)",
+        "table": null,
+        "matrix": null,
+        "graph": null
+      },
+      {
+        "serial_number": "Q.44",
+        "question_text": "What are the access modifiers? How many types of access modifiers are available in C++? Explain each one in detail and their role in implementing the data hiding in object-oriented programming.",
+        "exam_year_month": "November 2022",
+        "original_question_number": "Q.3(b)",
+        "table": null,
+        "matrix": null,
+        "graph": null
+      },
+      {
+        "serial_number": "Q.45",
+        "question_text": "Explain the role of constructor and destructor in a class. What are the different types of constructors in C++? Write the appropriate syntax for the copy constructor and parameterized constructors.",
+        "exam_year_month": "November 2022",
+        "original_question_number": "Q.4(a)",
+        "table": null,
+        "matrix": null,
+        "graph": null
+      },
+      {
+        "serial_number": "Q.46",
+        "question_text": "How are data and functions organized in an object oriented program?",
+        "exam_year_month": "December 2020",
+        "original_question_number": "Q.3(a)",
+        "table": null,
+        "matrix": null,
+        "graph": null
+      },
+      {
+        "serial_number": "Q.47",
+        "question_text": "Explain user defined data types in C++.",
+        "exam_year_month": "December 2020",
+        "original_question_number": "Q.3(b)",
+        "table": null,
+        "matrix": null,
+        "graph": null
+      },
+      {
+        "serial_number": "Q.48",
+        "question_text": "What is a class? When do we declare a member of a class static?",
+        "exam_year_month": "December 2020",
+        "original_question_number": "Q.4(a)",
+        "table": null,
+        "matrix": null,
+        "graph": null
+      },
+      {
+        "serial_number": "Q.49",
+        "question_text": "What is constructor and destructor function? Explain with example.",
+        "exam_year_month": "December 2020",
+        "original_question_number": "Q.4(b)",
+        "table": null,
+        "matrix": null,
+        "graph": null
+      },
+      {
+        "serial_number": "Q.50",
+        "question_text": "Access modifier",
+        "exam_year_month": "December 2020",
+        "original_question_number": "Q.8(c)",
+        "table": null,
+        "matrix": null,
+        "graph": null
+      },
+      {
+        "serial_number": "Q.51",
+        "question_text": "Explain the concept of Encapsulation and data abstraction in detail. Write a C++ program to show these concepts in object oriented programming methodology. Define scope and life of any variable.",
+        "exam_year_month": "June 2020",
+        "original_question_number": "Q.3(a)",
+        "table": null,
+        "matrix": null,
+        "graph": null
+      },
+      {
+        "serial_number": "Q.52",
+        "question_text": "What do you mean by the term class and object? What is the relation and difference between these two? Write an example (syntax) to define a class in C++. Explain abstract class and singleton class in brief.",
+        "exam_year_month": "June 2020",
+        "original_question_number": "Q.3(b)",
+        "table": null,
+        "matrix": null,
+        "graph": null
+      },
+      {
+        "serial_number": "Q.53",
+        "question_text": "What are the access modifiers? How many types of access modifiers are available in C++. Explain each one in detail and their role in implementing the data hiding in object oriented programming.",
+        "exam_year_month": "June 2020",
+        "original_question_number": "Q.4(a)",
+        "table": null,
+        "matrix": null,
+        "graph": null
+      },
+      {
+        "serial_number": "Q.54",
+        "question_text": "Explain the role of constructor and destructor in a class. What are the different types of constructors in C++? Write the appropriate syntax for the copy constructor and parameterized constructors.",
+        "exam_year_month": "June 2020",
+        "original_question_number": "Q.4(b)",
+        "table": null,
+        "matrix": null,
+        "graph": null
+      }
+    ]
+  },
+  {
+    "unit": "UNIT-03",
+    "questions": [
+      {
+        "serial_number": "Q.55",
+        "question_text": "Explain inheritance and its types.",
+        "exam_year_month": "December 2025",
+        "original_question_number": "Q.5(a)",
+        "table": null,
+        "matrix": null,
+        "graph": null
+      },
+      {
+        "serial_number": "Q.56",
+        "question_text": "Differentiate between association and aggregation.",
+        "exam_year_month": "December 2025",
+        "original_question_number": "Q.5(b)",
+        "table": null,
+        "matrix": null,
+        "graph": null
+      },
+      {
+        "serial_number": "Q.57",
+        "question_text": "Explain interfaces and abstract classes.",
+        "exam_year_month": "December 2025",
+        "original_question_number": "Q.6(a)",
+        "table": null,
+        "matrix": null,
+        "graph": null
+      },
+      {
+        "serial_number": "Q.58",
+        "question_text": "Discuss their role in software design.",
+        "exam_year_month": "December 2025",
+        "original_question_number": "Q.6(b)",
+        "table": null,
+        "matrix": null,
+        "graph": null
+      },
+      {
+        "serial_number": "Q.59",
+        "question_text": "Explain the purpose of inheritance in Object-Oriented Programming. Discuss the different types of inheritance with suitable examples.",
+        "exam_year_month": "December 2024",
+        "original_question_number": "Q.3(a)",
+        "table": null,
+        "matrix": null,
+        "graph": null
+      },
+      {
+        "serial_number": "Q.60",
+        "question_text": "Differentiate between association, aggregation and composition in the context of OOP. Provide real-world examples for each type of relationship.",
+        "exam_year_month": "December 2024",
+        "original_question_number": "Q.3(b)",
+        "table": null,
+        "matrix": null,
+        "graph": null
+      },
+      {
+        "serial_number": "Q.61",
+        "question_text": "Explain the concept of interfaces in OOP. How do interfaces differ from abstract classes? Discuss the use of both in software development.",
+        "exam_year_month": "December 2024",
+        "original_question_number": "Q.7(b)",
+        "table": null,
+        "matrix": null,
+        "graph": null
+      },
+      {
+        "serial_number": "Q.62",
+        "question_text": "Explain how interfaces in Object-Oriented Programming can facilitate polymorphism. Provide code examples to illustrate the use of interfaces in C++.",
+        "exam_year_month": "December 2024",
+        "original_question_number": "Q.8(a)",
+        "table": null,
+        "matrix": null,
+        "graph": null
+      },
+      {
+        "serial_number": "Q.63",
+        "question_text": "What is Association? Explain different types of association with example.",
+        "exam_year_month": "June 2023",
+        "original_question_number": "Q.3(a)",
+        "table": null,
+        "matrix": null,
+        "graph": null
+      },
+      {
+        "serial_number": "Q.64",
+        "question_text": "Describe the role of Inheritance in object-oriented programming. Give different types of inheritance.",
+        "exam_year_month": "June 2023",
+        "original_question_number": "Q.3(b)",
+        "table": null,
+        "matrix": null,
+        "graph": null
+      },
+      {
+        "serial_number": "Q.65",
+        "question_text": "Ambiguity in Multiple inheritance",
+        "exam_year_month": "June 2023",
+        "original_question_number": "Q.8(a)",
+        "table": null,
+        "matrix": null,
+        "graph": null
+      },
+      {
+        "serial_number": "Q.66",
+        "question_text": "How can we implement aggregation in OOP? Explain with an example.",
+        "exam_year_month": "December 2023",
+        "original_question_number": "Q.3(a)",
+        "table": null,
+        "matrix": null,
+        "graph": null
+      },
+      {
+        "serial_number": "Q.67",
+        "question_text": "Generalization and Specialization",
+        "exam_year_month": "December 2023",
+        "original_question_number": "Q.5(b)",
+        "table": null,
+        "matrix": null,
+        "graph": null
+      },
+      {
+        "serial_number": "Q.68",
+        "question_text": "What is Association? Explain the various forms of Association.",
+        "exam_year_month": "December 2023",
+        "original_question_number": "Q.6(b)",
+        "table": null,
+        "matrix": null,
+        "graph": null
+      },
+      {
+        "serial_number": "Q.69",
+        "question_text": "What is an abstract class in OOP and how do we implement it? Explain with an example.",
+        "exam_year_month": "December 2023",
+        "original_question_number": "Q.7(b)",
+        "table": null,
+        "matrix": null,
+        "graph": null
+      },
+      {
+        "serial_number": "Q.70",
+        "question_text": "Interfaces",
+        "exam_year_month": "December 2023",
+        "original_question_number": "Q.8(c)",
+        "table": null,
+        "matrix": null,
+        "graph": null
+      },
+      {
+        "serial_number": "Q.71",
+        "question_text": "What are the different kinds of relationship among classes? Explain.",
+        "exam_year_month": "November 2022",
+        "original_question_number": "Q.1(b)",
+        "table": null,
+        "matrix": null,
+        "graph": null
+      },
+      {
+        "serial_number": "Q.72",
+        "question_text": "Explain the concept of association an aggregation in object-oriented approach. What is and Abstract class? Why Abstract classes are used?",
+        "exam_year_month": "November 2022",
+        "original_question_number": "Q.3(a)",
+        "table": null,
+        "matrix": null,
+        "graph": null
+      },
+      {
+        "serial_number": "Q.73",
+        "question_text": "When does ambiguity arise in multiple inheritance? How can one resolve it? Develop a program in C++ to create a derived class having the following items: name, age, rollno, marks, empcode and designation. Design a base class student having data members as rollno, marks and another base class is employee having data members as empcode and designation. These both base classes are inherited from a single base class person with data members name and age. The program should carry out the required input() and output() member function for all.",
+        "exam_year_month": "November 2022",
+        "original_question_number": "Q.6(a)",
+        "table": null,
+        "matrix": null,
+        "graph": null
+      },
+      {
+        "serial_number": "Q.74",
+        "question_text": "Explain the concept of interfaces and abstract class in detail.",
+        "exam_year_month": "November 2022",
+        "original_question_number": "Q.6(b)",
+        "table": null,
+        "matrix": null,
+        "graph": null
+      },
+      {
+        "serial_number": "Q.75",
+        "question_text": "What is an idea of reusability? Discuss different forms of inheritance with example.",
+        "exam_year_month": "December 2020",
+        "original_question_number": "Q.5(a)",
+        "table": null,
+        "matrix": null,
+        "graph": null
+      },
+      {
+        "serial_number": "Q.76",
+        "question_text": "What are abstract classes? Explain with suitable example.",
+        "exam_year_month": "December 2020",
+        "original_question_number": "Q.5(b)",
+        "table": null,
+        "matrix": null,
+        "graph": null
+      },
+      {
+        "serial_number": "Q.77",
+        "question_text": "Association",
+        "exam_year_month": "December 2020",
+        "original_question_number": "Q.8(b)",
+        "table": null,
+        "matrix": null,
+        "graph": null
+      },
+      {
+        "serial_number": "Q.78",
+        "question_text": "Explain the fundamental concept behind inheritance in object oriented programming by taking an example. Define multiple, multilevel and hybrid inheritance with diagram and syntax.",
+        "exam_year_month": "June 2020",
+        "original_question_number": "Q.5(a)",
+        "table": null,
+        "matrix": null,
+        "graph": null
+      },
+      {
+        "serial_number": "Q.79",
+        "question_text": "Explain the concept of association an aggregation in object oriented approach. What is and Abstract class? Why Abstract classes are used?",
+        "exam_year_month": "June 2020",
+        "original_question_number": "Q.5(b)",
+        "table": null,
+        "matrix": null,
+        "graph": null
+      },
+      {
+        "serial_number": "Q.80",
+        "question_text": "Interface",
+        "exam_year_month": "June 2020",
+        "original_question_number": "Q.8(a)(iii)",
+        "table": null,
+        "matrix": null,
+        "graph": null
+      }
+    ]
+  },
+  {
+    "unit": "UNIT-04",
+    "questions": [
+      {
+        "serial_number": "Q.81",
+        "question_text": "Explain polymorphism with method overloading and overriding.",
+        "exam_year_month": "December 2025",
+        "original_question_number": "Q.7(a)",
+        "table": null,
+        "matrix": null,
+        "graph": null
+      },
+      {
+        "serial_number": "Q.82",
+        "question_text": "Differentiate between compile-time and run-time polymorphism.",
+        "exam_year_month": "December 2025",
+        "original_question_number": "Q.7(b)",
+        "table": null,
+        "matrix": null,
+        "graph": null
+      },
+      {
+        "serial_number": "Q.83",
+        "question_text": "What is polymorphism in Object-Oriented Programming? Discuss its significance and how it contributes to code reusability and flexibility.",
+        "exam_year_month": "December 2024",
+        "original_question_number": "Q.4(a)",
+        "table": null,
+        "matrix": null,
+        "graph": null
+      },
+      {
+        "serial_number": "Q.84",
+        "question_text": "Compare and contrast static polymorphism with runtime polymorphism. Provide illustrative examples for both types.",
+        "exam_year_month": "December 2024",
+        "original_question_number": "Q.4(b)",
+        "table": null,
+        "matrix": null,
+        "graph": null
+      },
+      {
+        "serial_number": "Q.85",
+        "question_text": "Discuss Polymorphism in detail. What are the different ways to implement Polymorphism in C++, discuss them in brief. Give differences between function overloading and function overriding (or method overriding) by writing its syntax.",
+        "exam_year_month": "June 2023",
+        "original_question_number": "Q.4(a)",
+        "table": null,
+        "matrix": null,
+        "graph": null
+      },
+      {
+        "serial_number": "Q.86",
+        "question_text": "Write a C++ program to calculate the area using method overloading that accepts input from the user and then shows the desired result.",
+        "exam_year_month": "June 2023",
+        "original_question_number": "Q.4(b)",
+        "table": null,
+        "matrix": null,
+        "graph": null
+      },
+      {
+        "serial_number": "Q.87",
+        "question_text": "Discuss and compare run time polymorphism and compile time polymorphism.",
+        "exam_year_month": "December 2023",
+        "original_question_number": "Q.3(b)",
+        "table": null,
+        "matrix": null,
+        "graph": null
+      },
+      {
+        "serial_number": "Q.88",
+        "question_text": "Using the concept of function overloading write a program in C++ to find the maximum of three integer numbers.",
+        "exam_year_month": "December 2023",
+        "original_question_number": "Q.4(b)",
+        "table": null,
+        "matrix": null,
+        "graph": null
+      },
+      {
+        "serial_number": "Q.89",
+        "question_text": "Virtual and Pure virtual function",
+        "exam_year_month": "December 2023",
+        "original_question_number": "Q.5(a)",
+        "table": null,
+        "matrix": null,
+        "graph": null
+      },
+      {
+        "serial_number": "Q.90",
+        "question_text": "Function overloading and Function overriding",
+        "exam_year_month": "December 2023",
+        "original_question_number": "Q.5(d)",
+        "table": null,
+        "matrix": null,
+        "graph": null
+      },
+      {
+        "serial_number": "Q.91",
+        "question_text": "Explain method overloading and method overriding with example.",
+        "exam_year_month": "November 2022",
+        "original_question_number": "Q.4(b)",
+        "table": null,
+        "matrix": null,
+        "graph": null
+      },
+      {
+        "serial_number": "Q.92",
+        "question_text": "What is Operator overloading? Design a Distance class with data members for distance in meters, centimeters, and millimeters. Write a program to overload addition and subtraction operators respectively in a class Distance.",
+        "exam_year_month": "November 2022",
+        "original_question_number": "Q.5(a)",
+        "table": null,
+        "matrix": null,
+        "graph": null
+      },
+      {
+        "serial_number": "Q.93",
+        "question_text": "Define polymorphism and its types. How compile time polymorphism is different from run time polymorphism.",
+        "exam_year_month": "November 2022",
+        "original_question_number": "Q.7(b)",
+        "table": null,
+        "matrix": null,
+        "graph": null
+      },
+      {
+        "serial_number": "Q.94",
+        "question_text": "Virtual function",
+        "exam_year_month": "November 2022",
+        "original_question_number": "Q.8(i)",
+        "table": null,
+        "matrix": null,
+        "graph": null
+      },
+      {
+        "serial_number": "Q.95",
+        "question_text": "Differentiate between method overriding and overloading.",
+        "exam_year_month": "December 2020",
+        "original_question_number": "Q.6(a)",
+        "table": null,
+        "matrix": null,
+        "graph": null
+      },
+      {
+        "serial_number": "Q.96",
+        "question_text": "How is polymorphism achieved at compile time and run time?",
+        "exam_year_month": "December 2020",
+        "original_question_number": "Q.6(b)",
+        "table": null,
+        "matrix": null,
+        "graph": null
+      },
+      {
+        "serial_number": "Q.97",
+        "question_text": "Discuss Polymorphism in detail. What are the different ways to implement Polymorphism in C++, discuss them in brief. Give differences between function overloading and function overriding (or method overriding) by writing its syntax.",
+        "exam_year_month": "June 2020",
+        "original_question_number": "Q.6(a)",
+        "table": null,
+        "matrix": null,
+        "graph": null
+      },
+      {
+        "serial_number": "Q.98",
+        "question_text": "Write a C++ program to calculate the area of rectangle, square and circle using constructor overloading that accepts input from the user and then shows the desired result.",
+        "exam_year_month": "June 2020",
+        "original_question_number": "Q.6(b)",
+        "table": null,
+        "matrix": null,
+        "graph": null
+      },
+      {
+        "serial_number": "Q.99",
+        "question_text": "Virtual functions",
+        "exam_year_month": "June 2020",
+        "original_question_number": "Q.8(a)(i)",
+        "table": null,
+        "matrix": null,
+        "graph": null
+      },
+      {
+        "serial_number": "Q.100",
+        "question_text": "Operator overloading",
+        "exam_year_month": "June 2020",
+        "original_question_number": "Q.8(a)(ii)",
+        "table": null,
+        "matrix": null,
+        "graph": null
+      },
+      {
+        "serial_number": "Q.101",
+        "question_text": "Inline function",
+        "exam_year_month": "June 2020",
+        "original_question_number": "Q.8(a)(iv)",
+        "table": null,
+        "matrix": null,
+        "graph": null
+      }
+    ]
+  },
+  {
+    "unit": "UNIT-05",
+    "questions": [
+      {
+        "serial_number": "Q.102",
+        "question_text": "Explain exception handling and multithreading.",
+        "exam_year_month": "December 2025",
+        "original_question_number": "Q.8(a)",
+        "table": null,
+        "matrix": null,
+        "graph": null
+      },
+      {
+        "serial_number": "Q.103",
+        "question_text": "Discuss data collections with a suitable case study (ATM, Library).",
+        "exam_year_month": "December 2025",
+        "original_question_number": "Q.8(b)",
+        "table": null,
+        "matrix": null,
+        "graph": null
+      },
+      {
+        "serial_number": "Q.104",
+        "question_text": "Explain the architecture and functionalities of a Library Management System. Discuss how strings, exception handling, and collections can be utilized in its implementation.",
+        "exam_year_month": "December 2024",
+        "original_question_number": "Q.5(a)",
+        "table": null,
+        "matrix": null,
+        "graph": null
+      },
+      {
+        "serial_number": "Q.105",
+        "question_text": "Describe the concept of multi-threading. What are the advantages of using multi-threading in applications?",
+        "exam_year_month": "December 2024",
+        "original_question_number": "Q.5(b)",
+        "table": null,
+        "matrix": null,
+        "graph": null
+      },
+      {
+        "serial_number": "Q.106",
+        "question_text": "Discuss various data collections available in C++. How do these collections differ in terms of performance and use cases?",
+        "exam_year_month": "December 2024",
+        "original_question_number": "Q.8(b)",
+        "table": null,
+        "matrix": null,
+        "graph": null
+      },
+      {
+        "serial_number": "Q.107",
+        "question_text": "Explain the concept of multithreading in object-oriented programming approach? Write its benefits. Discuss the collection and its type. What is a collection class?",
+        "exam_year_month": "June 2023",
+        "original_question_number": "Q.5(a)",
+        "table": null,
+        "matrix": null,
+        "graph": null
+      },
+      {
+        "serial_number": "Q.108",
+        "question_text": "Explain library management system using object-oriented diagram.",
+        "exam_year_month": "June 2023",
+        "original_question_number": "Q.5(b)",
+        "table": null,
+        "matrix": null,
+        "graph": null
+      },
+      {
+        "serial_number": "Q.109",
+        "question_text": "What is exception? Write a program to read three numbers x, y and z and evaluate R given by $$R = z / (x-y)$$ Use exception handling to throw an exception in case division by zero is attempted.",
+        "exam_year_month": "June 2023",
+        "original_question_number": "Q.6(a)",
+        "table": null,
+        "matrix": null,
+        "graph": null
+      },
+      {
+        "serial_number": "Q.110",
+        "question_text": "Explain object model with example of ATM of a bank.",
+        "exam_year_month": "December 2023",
+        "original_question_number": "Q.2(b)",
+        "table": null,
+        "matrix": null,
+        "graph": null
+      },
+      {
+        "serial_number": "Q.111",
+        "question_text": "What do you mean by exception? How exception is handled in C++? Explain with the help of an example?",
+        "exam_year_month": "December 2023",
+        "original_question_number": "Q.6(a)",
+        "table": null,
+        "matrix": null,
+        "graph": null
+      },
+      {
+        "serial_number": "Q.112",
+        "question_text": "What is Multithreading? Discuss its importance and application in OOP.",
+        "exam_year_month": "December 2023",
+        "original_question_number": "Q.7(a)",
+        "table": null,
+        "matrix": null,
+        "graph": null
+      },
+      {
+        "serial_number": "Q.113",
+        "question_text": "String Handling in OOP",
+        "exam_year_month": "December 2023",
+        "original_question_number": "Q.8(d)",
+        "table": null,
+        "matrix": null,
+        "graph": null
+      },
+      {
+        "serial_number": "Q.114",
+        "question_text": "What is String? Explain functions of strings with suitable examples.",
+        "exam_year_month": "November 2022",
+        "original_question_number": "Q.5(b)",
+        "table": null,
+        "matrix": null,
+        "graph": null
+      },
+      {
+        "serial_number": "Q.115",
+        "question_text": "Explain exception handling and multithreading.",
+        "exam_year_month": "November 2022",
+        "original_question_number": "Q.7(a)",
+        "table": null,
+        "matrix": null,
+        "graph": null
+      },
+      {
+        "serial_number": "Q.116",
+        "question_text": "Data collection",
+        "exam_year_month": "November 2022",
+        "original_question_number": "Q.8(iii)",
+        "table": null,
+        "matrix": null,
+        "graph": null
+      },
+      {
+        "serial_number": "Q.117",
+        "question_text": "What is meant by exceptions? How an exception in handled?",
+        "exam_year_month": "December 2020",
+        "original_question_number": "Q.7(a)",
+        "table": null,
+        "matrix": null,
+        "graph": null
+      },
+      {
+        "serial_number": "Q.118",
+        "question_text": "Explain library management system using object oriented diagram.",
+        "exam_year_month": "December 2020",
+        "original_question_number": "Q.7(b)",
+        "table": null,
+        "matrix": null,
+        "graph": null
+      },
+      {
+        "serial_number": "Q.119",
+        "question_text": "Multi-threading",
+        "exam_year_month": "December 2020",
+        "original_question_number": "Q.8(a)",
+        "table": null,
+        "matrix": null,
+        "graph": null
+      },
+      {
+        "serial_number": "Q.120",
+        "question_text": "What are the Exception and how they handled? What do you mean by Array Index Out of Bounds Exception and Null Pointer Exception? What are the uses of keyword try, catch and throw? Explain with an example.",
+        "exam_year_month": "June 2020",
+        "original_question_number": "Q.7(a)",
+        "table": null,
+        "matrix": null,
+        "graph": null
+      },
+      {
+        "serial_number": "Q.121",
+        "question_text": "Explain the concept of multithreading in object oriented programming approach? Writes its benefits. Discuss the collection and its type. What is a collection class?",
+        "exam_year_month": "June 2020",
+        "original_question_number": "Q.7(b)",
+        "table": null,
+        "matrix": null,
+        "graph": null
+      },
+      {
+        "serial_number": "Q.122",
+        "question_text": "Explain in detail about the object oriented methodology of designing any library management system. What are the various object and class diagram in it? Design and briefly explain them.",
+        "exam_year_month": "June 2020",
+        "original_question_number": "Q.8(b)",
+        "table": null,
+        "matrix": null,
+        "graph": null
+      }
+    ]
+  }
+]
