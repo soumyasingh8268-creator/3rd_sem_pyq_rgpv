@@ -1,0 +1,1448 @@
+
+[
+  {
+    "unit": "UNIT 1",
+    "questions": [
+      {
+        "serial_number": "Q.1",
+        "question_text": "Among integers 1 to 300, how many of them are divisible neither by 3, nor by 5, nor by 7? How many of them are divisible by 3 but not by 5, nor by 7?",
+        "exam_year_month": "December 2020",
+        "original_question_number": "1. a)",
+        "table": null,
+        "matrix": null,
+        "graph": null
+      },
+      {
+        "serial_number": "Q.2",
+        "question_text": "Prove by mathematical induction: $$1 + 4 + 7 + ... + (3n - 2) = 2n (3n - 1)$$",
+        "exam_year_month": "December 2020",
+        "original_question_number": "1. b)",
+        "table": null,
+        "matrix": null,
+        "graph": null
+      },
+      {
+        "serial_number": "Q.3",
+        "question_text": "Prove :\n$$i) A \\times (B \\cap C) = (A \\times B) \\cap (A \\times C)$$\n$$ii) A \\times (B \\cup C) = (A \\times B) \\cup (A \\times C)$$",
+        "exam_year_month": "December 2020",
+        "original_question_number": "2. a)",
+        "table": null,
+        "matrix": null,
+        "graph": null
+      },
+      {
+        "serial_number": "Q.4",
+        "question_text": "Explain Pigeonhole principle with an example.",
+        "exam_year_month": "December 2020",
+        "original_question_number": "2. b)",
+        "table": null,
+        "matrix": null,
+        "graph": null
+      },
+      {
+        "serial_number": "Q.5",
+        "question_text": "Show that the mapping $$f : R \\rightarrow R, f(x) = \\frac{1}{x}, x \\neq 0$$ and $$x \\in R$$ is one-one onto, where R is the set of non-zero real numbers.",
+        "exam_year_month": "December 2020",
+        "original_question_number": "3. a)",
+        "table": null,
+        "matrix": null,
+        "graph": null
+      },
+      {
+        "serial_number": "Q.6",
+        "question_text": "Explain Pigeonhole principle with an example.",
+        "exam_year_month": "December 2020",
+        "original_question_number": "5. b)",
+        "table": null,
+        "matrix": null,
+        "graph": null
+      },
+      {
+        "serial_number": "Q.7",
+        "question_text": "Find the number of integers between 1 and 500 that are not divisible by any of the integers 2, 3 and 5.",
+        "exam_year_month": "June 2022",
+        "original_question_number": "1. a)",
+        "table": null,
+        "matrix": null,
+        "graph": null
+      },
+      {
+        "serial_number": "Q.8",
+        "question_text": "A briefly explain the application of Pigeon Hole principle using an example.",
+        "exam_year_month": "June 2022",
+        "original_question_number": "2. a)",
+        "table": null,
+        "matrix": null,
+        "graph": null
+      },
+      {
+        "serial_number": "Q.9",
+        "question_text": "Prove by mathematical induction.\n$$1 + 4 + 7 + ... + (3n - 2) = 2n (3n - 1)$$",
+        "exam_year_month": "June 2022",
+        "original_question_number": "2. b)",
+        "table": null,
+        "matrix": null,
+        "graph": null
+      },
+      {
+        "serial_number": "Q.10",
+        "question_text": "Show that the relation 'R' defined by $$(a, b) R (c, d)$$ if $$a + d = b + c$$ is an equivalence relation.",
+        "exam_year_month": "November 2022",
+        "original_question_number": "1. a)",
+        "table": null,
+        "matrix": null,
+        "graph": null
+      },
+      {
+        "serial_number": "Q.11",
+        "question_text": "If $$X = \\{1, 2, 3, 4\\}$$ and $$R = \\{(x, y)/x < y\\}$$. Draw the graph of 'R' and also give its matrix.",
+        "exam_year_month": "November 2022",
+        "original_question_number": "1. b)",
+        "table": null,
+        "matrix": null,
+        "graph": null
+      },
+      {
+        "serial_number": "Q.12",
+        "question_text": "Prove that If R is an equivalence relation on a set A, show that $$R^{-1}$$ is also an equivalence relation on A.",
+        "exam_year_month": "November 2022",
+        "original_question_number": "2. a)",
+        "table": null,
+        "matrix": null,
+        "graph": null
+      },
+      {
+        "serial_number": "Q.13",
+        "question_text": "What is Mathematical induction? Use mathematical induction to prove that $$1.1! + 2.2! + ... + n.n! = (n + 1)! - 1$$, wherever n is a positive integer.",
+        "exam_year_month": "November 2022",
+        "original_question_number": "2. b)",
+        "table": null,
+        "matrix": null,
+        "graph": null
+      },
+      {
+        "serial_number": "Q.14",
+        "question_text": "Explain the method of proving theorems by direct, indirect, contradiction and by cases.",
+        "exam_year_month": "November 2022",
+        "original_question_number": "6. b)",
+        "table": null,
+        "matrix": null,
+        "graph": null
+      },
+      {
+        "serial_number": "Q.15",
+        "question_text": "Let $$X = \\{a, b, c\\}$$. Define $$f : X \\rightarrow X$$ such that $$f = \\{(a, b), (b, a), (c, c)\\}$$ Find\ni) $$f^{-1}$$\nii) $$f^2$$\niii) $$f^3$$\niv) $$f^4$$",
+        "exam_year_month": "June 2023",
+        "original_question_number": "1. a)",
+        "table": null,
+        "matrix": null,
+        "graph": null
+      },
+      {
+        "serial_number": "Q.16",
+        "question_text": "Among 100 students, 32 study Mathematics, 20 study Physics, 45 study Biology, 15 study Mathematics and Biology, 7 study Mathematics and Physics, 10 study Physics and Biology and 30 do not study any of the subjects. Find the number of students\ni) Studying all the three subjects and\nii) Studying exactly one of the three subjects.",
+        "exam_year_month": "June 2023",
+        "original_question_number": "1. b)",
+        "table": null,
+        "matrix": null,
+        "graph": null
+      },
+      {
+        "serial_number": "Q.17",
+        "question_text": "Let $$A = \\{2, 3, 4\\}$$ and $$B = \\{3, 4, 5, 6, 7\\}$$. Assume a relation R from A to B such that $$(x, y) \\in R$$ when a divides 6. Determine R, its domain and range.",
+        "exam_year_month": "June 2023",
+        "original_question_number": "6. a)",
+        "table": null,
+        "matrix": null,
+        "graph": null
+      },
+      {
+        "serial_number": "Q.18",
+        "question_text": "Types of functions",
+        "exam_year_month": "June 2023",
+        "original_question_number": "8. d)",
+        "table": null,
+        "matrix": null,
+        "graph": null
+      },
+      {
+        "serial_number": "Q.19",
+        "question_text": "Out of 120 students surveyed, it was found that 20 students have studied French, 50 students have studied English, 70 students have studied Hindi, 5 have studied English and French, 20 have studied English and Hindi, 10 have studied Hindi and French, only 3 students have studied all the three languages. Find how many students have studied:\ni) Hindi alone\nii) French alone\niii) English, but not Hindi\niv) Hindi, but not French",
+        "exam_year_month": "December 2023",
+        "original_question_number": "1. a)",
+        "table": null,
+        "matrix": null,
+        "graph": null
+      },
+      {
+        "serial_number": "Q.20",
+        "question_text": "If R be a relation in the set of integers Z defined by $$R = \\{(x, y) : x \\in Z, y \\in Z, (x - y)$$ is multiple of 3 $$\\$$. Show that it is an equivalence relation.",
+        "exam_year_month": "December 2023",
+        "original_question_number": "1. b)",
+        "table": null,
+        "matrix": null,
+        "graph": null
+      },
+      {
+        "serial_number": "Q.21",
+        "question_text": "If $$f : R \\rightarrow R$$\n$$f(x) = \\begin{cases} 3x - 12, & x > 3 \\\\ 2x^2 + 3, & -2 < x \\leq 3 \\\\ 3x^2 - 7, & x \\leq -2 \\end{cases}$$\nfind $$f^{-1}(3), f^{-1}(0), f^{-1}(-2)$$.",
+        "exam_year_month": "December 2023",
+        "original_question_number": "2. a)",
+        "table": null,
+        "matrix": null,
+        "graph": null
+      },
+      {
+        "serial_number": "Q.22",
+        "question_text": "Show that $$1^2 + 2^2 + 3^2 + ... + n^2 = \\frac{n(n+1)(2n+1)}{6}, n \\geq 1$$ by mathematical induction",
+        "exam_year_month": "December 2023",
+        "original_question_number": "3. b)",
+        "table": null,
+        "matrix": null,
+        "graph": null
+      },
+      {
+        "serial_number": "Q.23",
+        "question_text": "Prove that the relation R defined by \"a is congruent to b modulo m\" on the set of integers is an equivalence relation.",
+        "exam_year_month": "June 2024",
+        "original_question_number": "4. b)",
+        "table": null,
+        "matrix": null,
+        "graph": null
+      },
+      {
+        "serial_number": "Q.24",
+        "question_text": "Prove that $$5^{2n} - 1$$ is divisible by 24, where n is any positive integer.",
+        "exam_year_month": "June 2024",
+        "original_question_number": "5. a)",
+        "table": null,
+        "matrix": null,
+        "graph": null
+      },
+      {
+        "serial_number": "Q.25",
+        "question_text": "Show that the relation 'R' defined by $$(a, b) R (c, d)$$ iff $$a + d = b + c$$ is an equivalence relation.",
+        "exam_year_month": "June 2024",
+        "original_question_number": "6. a)",
+        "table": null,
+        "matrix": null,
+        "graph": null
+      },
+      {
+        "serial_number": "Q.26",
+        "question_text": "Define various types of functions. How many symmetric and reflexive relations are possible from a set A containing 'n' elements?",
+        "exam_year_month": "December 2024",
+        "original_question_number": "1. a)",
+        "table": null,
+        "matrix": null,
+        "graph": null
+      },
+      {
+        "serial_number": "Q.27",
+        "question_text": "Define Pigeon hole Principle. Write the contra positive of the implication: \"if it is Sunday then it is a holiday.\"",
+        "exam_year_month": "December 2024",
+        "original_question_number": "2. b)",
+        "table": null,
+        "matrix": null,
+        "graph": null
+      },
+      {
+        "serial_number": "Q.28",
+        "question_text": "Find the numbers between 1 to 500 that are not divisible by any of the integers 2 or 3 or 5 or 7.",
+        "exam_year_month": "December 2024",
+        "original_question_number": "4. b)",
+        "table": null,
+        "matrix": null,
+        "graph": null
+      },
+      {
+        "serial_number": "Q.29",
+        "question_text": "Consider three sets $$A = \\{1, 2, 3, 4, 5\\}, B = \\{3, 4, 5, 6\\}$$ and $$C = \\{1, 5, 7\\}$$. Using Venn diagrams, determine and shade the regions corresponding to $$(A \\cup B) \\cap (B \\cap C)$$ and $$A \\cap (B \\cup C)$$. Verify if these expressions are equivalent by listing the elements.",
+        "exam_year_month": "June 2025",
+        "original_question_number": "1. a)",
+        "table": null,
+        "matrix": null,
+        "graph": null
+      },
+      {
+        "serial_number": "Q.30",
+        "question_text": "Define and illustrate an equivalence relation by constructing an equivalence relation on the set $$S = \\{1, 2, 3, 4, 5, 6\\}$$ where two elements are related if they have the same remainder when divided by 3.",
+        "exam_year_month": "June 2025",
+        "original_question_number": "1. b)",
+        "table": null,
+        "matrix": null,
+        "graph": null
+      },
+      {
+        "serial_number": "Q.31",
+        "question_text": "What is pigeonhole principle. Prove it by using mathematical induction and use it to show that in a group of 15 people, at least two share the same birth month.",
+        "exam_year_month": "June 2025",
+        "original_question_number": "2. a)",
+        "table": null,
+        "matrix": null,
+        "graph": null
+      },
+      {
+        "serial_number": "Q.32",
+        "question_text": "Explain a recursively defined function. Solve the recurrence relation $$f(n) = f(n - 1) + 3$$ with initial condition $$f(0) = 2$$.",
+        "exam_year_month": "June 2025",
+        "original_question_number": "2. b)",
+        "table": null,
+        "matrix": null,
+        "graph": null
+      },
+      {
+        "serial_number": "Q.33",
+        "question_text": "Partial Ordering Relation",
+        "exam_year_month": "June 2025",
+        "original_question_number": "8. iv)",
+        "table": null,
+        "matrix": null,
+        "graph": null
+      },
+      {
+        "serial_number": "Q.34",
+        "question_text": "Countable and uncountable sets",
+        "exam_year_month": "June 2025",
+        "original_question_number": "8. v)",
+        "table": null,
+        "matrix": null,
+        "graph": null
+      },
+      {
+        "serial_number": "Q.35",
+        "question_text": "Define countable and uncountable sets. Prove that the set of rational numbers is countable.",
+        "exam_year_month": "December 2025",
+        "original_question_number": "1. a)",
+        "table": null,
+        "matrix": null,
+        "graph": null
+      },
+      {
+        "serial_number": "Q.36",
+        "question_text": "Using Venn diagram, prove:\n$$A \\cap (B \\cup C) = (A \\cap B) \\cup (A \\cap C)$$",
+        "exam_year_month": "December 2025",
+        "original_question_number": "1. b)",
+        "table": null,
+        "matrix": null,
+        "graph": null
+      },
+      {
+        "serial_number": "Q.37",
+        "question_text": "Define relation. Explain equivalence relation and partial ordering relation with suitable examples.",
+        "exam_year_month": "December 2025",
+        "original_question_number": "2. a)",
+        "table": null,
+        "matrix": null,
+        "graph": null
+      },
+      {
+        "serial_number": "Q.38",
+        "question_text": "Let\n$$A = \\{1, 2, 3\\}$$\n$$R = \\{(1, 1), (2, 2), (3, 3), (1, 2), (2, 1)\\}$$\nCheck whether R is an equivalence relation and find equivalence classes.",
+        "exam_year_month": "December 2025",
+        "original_question_number": "2. b)",
+        "table": null,
+        "matrix": null,
+        "graph": null
+      },
+      {
+        "serial_number": "Q.39",
+        "question_text": "Define one-one, onto and bijective functions. Prove that inverse of a function exists if and only if the function is bijective.",
+        "exam_year_month": "December 2025",
+        "original_question_number": "3. a)",
+        "table": null,
+        "matrix": null,
+        "graph": null
+      },
+      {
+        "serial_number": "Q.40",
+        "question_text": "State and prove Pigeonhole Principle.",
+        "exam_year_month": "December 2025",
+        "original_question_number": "3. b)",
+        "table": null,
+        "matrix": null,
+        "graph": null
+      },
+      {
+        "serial_number": "Q.41",
+        "question_text": "Prove by mathematical induction that:\n$$1 + 2 + 3 + ..... + n = \\frac{n(n + 1)}{2}$$",
+        "exam_year_month": "December 2025",
+        "original_question_number": "5. a)",
+        "table": null,
+        "matrix": null,
+        "graph": null
+      },
+      {
+        "serial_number": "Q.42",
+        "question_text": "Prove by contradiction that $$\\sqrt{2}$$ is irrational.",
+        "exam_year_month": "December 2025",
+        "original_question_number": "5. b)",
+        "table": null,
+        "matrix": null,
+        "graph": null
+      }
+    ]
+  },
+  {
+    "unit": "UNIT 2",
+    "questions": [
+      {
+        "serial_number": "Q.43",
+        "question_text": "Prove that every finite group G is isomorphic to a per mutation group.",
+        "exam_year_month": "December 2020",
+        "original_question_number": "3. b)",
+        "table": null,
+        "matrix": null,
+        "graph": null
+      },
+      {
+        "serial_number": "Q.44",
+        "question_text": "Define cyclic group with suitable example.",
+        "exam_year_month": "June 2022",
+        "original_question_number": "1. b)",
+        "table": null,
+        "matrix": null,
+        "graph": null
+      },
+      {
+        "serial_number": "Q.45",
+        "question_text": "Prove that the group homomorphism preserves the identity element.",
+        "exam_year_month": "June 2022",
+        "original_question_number": "4. b)",
+        "table": null,
+        "matrix": null,
+        "graph": null
+      },
+      {
+        "serial_number": "Q.46",
+        "question_text": "Prove that the set $$G = \\{0, 1, 2, 3, 4, 5, 6\\}$$ is a finite abelian group of order 7 with respect to multiplication modulo 7 as the composition in G.",
+        "exam_year_month": "November 2022",
+        "original_question_number": "4. a)",
+        "table": null,
+        "matrix": null,
+        "graph": null
+      },
+      {
+        "serial_number": "Q.47",
+        "question_text": "State the Lagrange's Theorem with example. Also explain Permutation and Symmetric Group.",
+        "exam_year_month": "November 2022",
+        "original_question_number": "4. b)",
+        "table": null,
+        "matrix": null,
+        "graph": null
+      },
+      {
+        "serial_number": "Q.48",
+        "question_text": "Consider $$G = \\{1, 5, 7, 11\\}$$ under multiplication modulo 12\ni) Find the order of each element\nii) Is G cyclic\niii) Find all subgroups",
+        "exam_year_month": "June 2023",
+        "original_question_number": "2. a)",
+        "table": null,
+        "matrix": null,
+        "graph": null
+      },
+      {
+        "serial_number": "Q.49",
+        "question_text": "Prove that a subgroup H of a group G, is normal if and only if $$xHx^{-1} = H, \\forall x \\in G$$",
+        "exam_year_month": "June 2023",
+        "original_question_number": "2. b)",
+        "table": null,
+        "matrix": null,
+        "graph": null
+      },
+      {
+        "serial_number": "Q.50",
+        "question_text": "Let G be any (additive) abelian group. Define a multiplication in G by $$a * b = 0$$ for every $$a, b \\in G$$. Show that this makes G into a ring.",
+        "exam_year_month": "June 2023",
+        "original_question_number": "6. b)",
+        "table": null,
+        "matrix": null,
+        "graph": null
+      },
+      {
+        "serial_number": "Q.51",
+        "question_text": "Prove that $$F = \\{a + b\\sqrt{2} ; a, b$$ rational$$\\}$$ is a field.",
+        "exam_year_month": "December 2023",
+        "original_question_number": "3. a)",
+        "table": null,
+        "matrix": null,
+        "graph": null
+      },
+      {
+        "serial_number": "Q.52",
+        "question_text": "Define the following\ni) Symmetric Group\nii) Normal Subgroup\niii) Homomorphism",
+        "exam_year_month": "December 2023",
+        "original_question_number": "3. b)",
+        "table": null,
+        "matrix": null,
+        "graph": null
+      },
+      {
+        "serial_number": "Q.53",
+        "question_text": "Let Z be the group of integers with binary operation * defined by $$a * b = a + b - 2$$, for all $$a, b \\in Z$$. Find the identity element of the group <Z, *>.",
+        "exam_year_month": "June 2024",
+        "original_question_number": "1. b)",
+        "table": null,
+        "matrix": null,
+        "graph": null
+      },
+      {
+        "serial_number": "Q.54",
+        "question_text": "Show that every Cyclic group is Abelian. Prove that a lattice with 5 elements is not a Boolean algebra.",
+        "exam_year_month": "June 2024",
+        "original_question_number": "7. a)",
+        "table": null,
+        "matrix": null,
+        "graph": null
+      },
+      {
+        "serial_number": "Q.55",
+        "question_text": "Prove that $$G = \\{0, 1, 2, 3, 4, 5, 6\\}$$ is an abelian group of order 7 with respect to addition modulo 7.",
+        "exam_year_month": "June 2024",
+        "original_question_number": "8. a)",
+        "table": null,
+        "matrix": null,
+        "graph": null
+      },
+      {
+        "serial_number": "Q.56",
+        "question_text": "Prove or disprove that intersection of two normal subgroups of a group G is again a normal subgroup of G. Define subgroup, normal subgroup, Quotient group, with an example for each.",
+        "exam_year_month": "June 2024",
+        "original_question_number": "8. b)",
+        "table": null,
+        "matrix": null,
+        "graph": null
+      },
+      {
+        "serial_number": "Q.57",
+        "question_text": "Let Z be the group of integers with binary operation * defined by $$a * b = a + b - 2$$, for all $$a, b \\in Z$$. Find the identity element of the group <Z, *>.",
+        "exam_year_month": "December 2024",
+        "original_question_number": "1. b)",
+        "table": null,
+        "matrix": null,
+        "graph": null
+      },
+      {
+        "serial_number": "Q.58",
+        "question_text": "Show that every Cyclic group is Abelian. Prove that a lattice with 5 elements is not a Boolean algebra.",
+        "exam_year_month": "December 2024",
+        "original_question_number": "2. a)",
+        "table": null,
+        "matrix": null,
+        "graph": null
+      },
+      {
+        "serial_number": "Q.59",
+        "question_text": "What is Ring? Define elementary properties of Ring with example.",
+        "exam_year_month": "December 2024",
+        "original_question_number": "8. a)",
+        "table": null,
+        "matrix": null,
+        "graph": null
+      },
+      {
+        "serial_number": "Q.60",
+        "question_text": "Prove or disprove that intersection of two normal subgroups of a group G is again a normal subgroup of G.",
+        "exam_year_month": "December 2024",
+        "original_question_number": "8. b)",
+        "table": null,
+        "matrix": null,
+        "graph": null
+      },
+      {
+        "serial_number": "Q.61",
+        "question_text": "Prove that the set $$G = \\{0, 1, 2, 3\\}$$ under addition modulo 4 is an abelian group. Identify the identity and inverse elements.",
+        "exam_year_month": "June 2025",
+        "original_question_number": "3. a)",
+        "table": null,
+        "matrix": null,
+        "graph": null
+      },
+      {
+        "serial_number": "Q.62",
+        "question_text": "Define a homomorphism between two groups. Verify whether the mapping $$f : \\mathbb{R} \\rightarrow \\mathbb{R}$$ defined by $$f(x) = 2x$$ is a homomorphism under addition.",
+        "exam_year_month": "June 2025",
+        "original_question_number": "3. b)",
+        "table": null,
+        "matrix": null,
+        "graph": null
+      },
+      {
+        "serial_number": "Q.63",
+        "question_text": "Permutation group",
+        "exam_year_month": "June 2025",
+        "original_question_number": "8. iii)",
+        "table": null,
+        "matrix": null,
+        "graph": null
+      },
+      {
+        "serial_number": "Q.64",
+        "question_text": "Define group and Abelian group. Prove that identity element of a group is unique.",
+        "exam_year_month": "December 2025",
+        "original_question_number": "6. a)",
+        "table": null,
+        "matrix": null,
+        "graph": null
+      },
+      {
+        "serial_number": "Q.65",
+        "question_text": "Find all subgroups of the group $$Z_8$$.",
+        "exam_year_month": "December 2025",
+        "original_question_number": "6. b)",
+        "table": null,
+        "matrix": null,
+        "graph": null
+      }
+    ]
+  },
+  {
+    "unit": "UNIT 3",
+    "questions": [
+      {
+        "serial_number": "Q.66",
+        "question_text": "Show that\n$$[(p \\wedge q) \\Rightarrow p] \\Rightarrow (q \\wedge \\sim q)$$ is a contradiction.",
+        "exam_year_month": "December 2020",
+        "original_question_number": "4. a)",
+        "table": null,
+        "matrix": null,
+        "graph": null
+      },
+      {
+        "serial_number": "Q.67",
+        "question_text": "Show that the language\n$$L = \\{a^m : m = i^2, i \\geq 1\\}$$ is not a finite state",
+        "exam_year_month": "December 2020",
+        "original_question_number": "4. b)",
+        "table": null,
+        "matrix": null,
+        "graph": null
+      },
+      {
+        "serial_number": "Q.68",
+        "question_text": "Prove by truth table that the following formula are tautologies\ni) $$(\\sim q \\Rightarrow \\sim p) \\wedge (q \\Rightarrow p) \\Rightarrow (p \\Leftrightarrow q)$$\nii) $$(p \\Leftrightarrow q \\wedge r) \\Rightarrow (\\sim r \\Rightarrow \\sim p)$$",
+        "exam_year_month": "December 2020",
+        "original_question_number": "5. a)",
+        "table": null,
+        "matrix": null,
+        "graph": null
+      },
+      {
+        "serial_number": "Q.69",
+        "question_text": "Universal and existential quantition",
+        "exam_year_month": "December 2020",
+        "original_question_number": "8. d)",
+        "table": null,
+        "matrix": null,
+        "graph": null
+      },
+      {
+        "serial_number": "Q.70",
+        "question_text": "Show that the rule of hypothetical syllogism is valid.\n$$p \\rightarrow q$$\n$$q \\rightarrow r$$\n$$p \\rightarrow r$$",
+        "exam_year_month": "June 2022",
+        "original_question_number": "3. a)",
+        "table": null,
+        "matrix": null,
+        "graph": null
+      },
+      {
+        "serial_number": "Q.71",
+        "question_text": "Prove that the proposition is a tautology.\n$$(p \\vee \\sim q) \\wedge (\\sim p \\vee \\sim q) \\vee q$$",
+        "exam_year_month": "June 2022",
+        "original_question_number": "3. b)",
+        "table": null,
+        "matrix": null,
+        "graph": null
+      },
+      {
+        "serial_number": "Q.72",
+        "question_text": "Find PDNF by constructing its PCNF of $$(Q \\vee P) \\wedge (Q \\vee R) \\wedge (\\sim(P \\vee R) \\vee \\sim Q)$$.",
+        "exam_year_month": "November 2022",
+        "original_question_number": "5. a)",
+        "table": null,
+        "matrix": null,
+        "graph": null
+      },
+      {
+        "serial_number": "Q.73",
+        "question_text": "Prove that for any three propositions P, Q, R the compound proposition $$(P \\rightarrow (Q \\rightarrow R)) \\rightarrow ((P \\rightarrow Q) \\rightarrow (P \\rightarrow R))$$ is a tautology by laws of logic.",
+        "exam_year_month": "November 2022",
+        "original_question_number": "5. b)",
+        "table": null,
+        "matrix": null,
+        "graph": null
+      },
+      {
+        "serial_number": "Q.74",
+        "question_text": "Explain Tautologies, Contradiction and Contingencies with suitable examples.",
+        "exam_year_month": "November 2022",
+        "original_question_number": "6. a)",
+        "table": null,
+        "matrix": null,
+        "graph": null
+      },
+      {
+        "serial_number": "Q.75",
+        "question_text": "Prove the validity of the following argument:\n\"If Ram is selected in IAS examination, then he will not be able to go to London. Since Ram is going to London. He will not be selected in IAS examination.\"",
+        "exam_year_month": "June 2023",
+        "original_question_number": "3. a)",
+        "table": null,
+        "matrix": null,
+        "graph": null
+      },
+      {
+        "serial_number": "Q.76",
+        "question_text": "Design DFA and NDFA accepting all string over $$\\{\\mathbf{0}, \\mathbf{1}\\}$$. Which end in 0 but do not contain 11 as substring?",
+        "exam_year_month": "June 2023",
+        "original_question_number": "3. b)",
+        "table": null,
+        "matrix": null,
+        "graph": null
+      },
+      {
+        "serial_number": "Q.77",
+        "question_text": "Prove by truth table the following.\ni) $$(p \\leftrightarrow p \\wedge r) \\Rightarrow (\\sim r \\rightarrow \\sim p)$$ is tautology\nii) $$(p \\vee q) \\wedge (\\sim p) \\wedge (\\sim q)$$ is a contradiction",
+        "exam_year_month": "June 2023",
+        "original_question_number": "7. a)",
+        "table": null,
+        "matrix": null,
+        "graph": null
+      },
+      {
+        "serial_number": "Q.78",
+        "question_text": "Conjunctive and Disjunctive Normal Form",
+        "exam_year_month": "June 2023",
+        "original_question_number": "8. a)",
+        "table": null,
+        "matrix": null,
+        "graph": null
+      },
+      {
+        "serial_number": "Q.79",
+        "question_text": "Universal and existential quantifier",
+        "exam_year_month": "June 2023",
+        "original_question_number": "8. c)",
+        "table": null,
+        "matrix": null,
+        "graph": null
+      },
+      {
+        "serial_number": "Q.80",
+        "question_text": "Construct the truth table of the following formula:\ni) $$\\sim(p \\vee (q \\vee r)) \\Leftrightarrow ((p \\vee q) \\wedge (p \\vee r))$$\nii) $$(\\sim q \\Rightarrow \\sim p) \\Rightarrow (p \\Rightarrow q)$$",
+        "exam_year_month": "December 2023",
+        "original_question_number": "4. a)",
+        "table": null,
+        "matrix": null,
+        "graph": null
+      },
+      {
+        "serial_number": "Q.81",
+        "question_text": "Write the negation of the following.\ni) If the determinant of a system of linear equations is zero then either the system has no solution or has an indefinite no. of solutions.\nii) Either today is not a Sunday or today is not a Wednesday.",
+        "exam_year_month": "December 2023",
+        "original_question_number": "4. b)",
+        "table": null,
+        "matrix": null,
+        "graph": null
+      },
+      {
+        "serial_number": "Q.82",
+        "question_text": "Show that the proposition $$\\neg(p \\wedge q)$$ and $$\\neg p \\vee q$$ are logically equivalent.",
+        "exam_year_month": "December 2023",
+        "original_question_number": "5. a)",
+        "table": null,
+        "matrix": null,
+        "graph": null
+      },
+      {
+        "serial_number": "Q.83",
+        "question_text": "Obtain the conjunctive normal form of\ni) $$p \\wedge (p \\Rightarrow q)$$\nii) $$\\sim p \\Rightarrow [r \\wedge (p \\Rightarrow q)]$$",
+        "exam_year_month": "December 2023",
+        "original_question_number": "5. b)",
+        "table": null,
+        "matrix": null,
+        "graph": null
+      },
+      {
+        "serial_number": "Q.84",
+        "question_text": "i) Prove that $$p \\wedge q \\Rightarrow q \\vee p$$ is a Tautology.\nii) Show that $$(p \\vee q) \\wedge (\\sim p) \\wedge (\\sim q)$$ is a contradiction.",
+        "exam_year_month": "June 2024",
+        "original_question_number": "3. a)",
+        "table": null,
+        "matrix": null,
+        "graph": null
+      },
+      {
+        "serial_number": "Q.85",
+        "question_text": "Explain various Rules of Inference for Propositional Logic.",
+        "exam_year_month": "June 2024",
+        "original_question_number": "6. b)",
+        "table": null,
+        "matrix": null,
+        "graph": null
+      },
+      {
+        "serial_number": "Q.86",
+        "question_text": "Prove the validity of the following argument \"if the races are fixed so the casinos are crooked, then the tourist trade will decline. If the tourist trade decreases, then the police will be happy. The police force is never happy. Therefore, the races are not fixed.\"",
+        "exam_year_month": "December 2024",
+        "original_question_number": "6. b)",
+        "table": null,
+        "matrix": null,
+        "graph": null
+      },
+      {
+        "serial_number": "Q.87",
+        "question_text": "Explain various Rules of Inference for Propositional Logic.",
+        "exam_year_month": "December 2024",
+        "original_question_number": "7. b)",
+        "table": null,
+        "matrix": null,
+        "graph": null
+      },
+      {
+        "serial_number": "Q.88",
+        "question_text": "Consider the propositions p, q and r, where :\np : \"It is raining.\"\nq : \"I am carrying an umbrella.\"\nr : \"I stay dry.\"\nAssume the implication $$(p \\rightarrow q) \\rightarrow r$$. Construct a truth table for the expression $$(p \\rightarrow q) \\rightarrow r$$ and determine if it is a tautology or contradiction.",
+        "exam_year_month": "June 2025",
+        "original_question_number": "4. a)",
+        "table": null,
+        "matrix": null,
+        "graph": null
+      },
+      {
+        "serial_number": "Q.89",
+        "question_text": "What are predicates in propositional logic? Define universal and existential quantifiers with examples.",
+        "exam_year_month": "June 2025",
+        "original_question_number": "4. b)",
+        "table": null,
+        "matrix": null,
+        "graph": null
+      },
+      {
+        "serial_number": "Q.90",
+        "question_text": "Finite state machines as language recognizers",
+        "exam_year_month": "June 2025",
+        "original_question_number": "8. i)",
+        "table": null,
+        "matrix": null,
+        "graph": null
+      },
+      {
+        "serial_number": "Q.91",
+        "question_text": "Construct truth table for the proposition.\n$$(p \\rightarrow q) \\leftrightarrow (\\neg p \\vee q)$$ and show that it is a tautology.",
+        "exam_year_month": "December 2025",
+        "original_question_number": "4. a)",
+        "table": null,
+        "matrix": null,
+        "graph": null
+      },
+      {
+        "serial_number": "Q.92",
+        "question_text": "Convert the following statement into predicate logic and write its negation: \"Every student studies Discrete Mathematics.\"",
+        "exam_year_month": "December 2025",
+        "original_question_number": "4. b)",
+        "table": null,
+        "matrix": null,
+        "graph": null
+      },
+      {
+        "serial_number": "Q.93",
+        "question_text": "Define Finite State Machine. Explain FSM as a language recognizer.",
+        "exam_year_month": "December 2025",
+        "original_question_number": "7. a)",
+        "table": null,
+        "matrix": null,
+        "graph": null
+      },
+      {
+        "serial_number": "Q.94",
+        "question_text": "Design a finite state machine that accepts all binary strings ending with 01.",
+        "exam_year_month": "December 2025",
+        "original_question_number": "7. b)",
+        "table": null,
+        "matrix": null,
+        "graph": null
+      }
+    ]
+  },
+  {
+    "unit": "UNIT 4",
+    "questions": [
+      {
+        "serial_number": "Q.95",
+        "question_text": "Find the shortest path of the following graph.",
+        "exam_year_month": "December 2020",
+        "original_question_number": "6. a)",
+        "table": null,
+        "matrix": null,
+        "graph": {
+          "vertices": ["a", "b", "c", "d", "e", "f", "g", "h"],
+          "edges": [
+            {"from": "a", "to": "b", "weight": "15"},
+            {"from": "a", "to": "c", "weight": "14"},
+            {"from": "a", "to": "d", "weight": "13"},
+            {"from": "b", "to": "c", "weight": "10"},
+            {"from": "b", "to": "e", "weight": "12"},
+            {"from": "c", "to": "e", "weight": "1"},
+            {"from": "c", "to": "d", "weight": "4"},
+            {"from": "c", "to": "f", "weight": "6"},
+            {"from": "d", "to": "g"},
+            {"from": "e", "to": "f", "weight": "7"},
+            {"from": "e", "to": "h", "weight": "2"},
+            {"from": "f", "to": "h", "weight": "11"},
+            {"from": "f", "to": "g", "weight": "9"},
+            {"from": "g", "to": "h", "weight": "5"}
+          ]
+        }
+      },
+      {
+        "serial_number": "Q.96",
+        "question_text": "Define chromatic number with diagram.",
+        "exam_year_month": "December 2020",
+        "original_question_number": "6. b)",
+        "table": null,
+        "matrix": null,
+        "graph": null
+      },
+      {
+        "serial_number": "Q.97",
+        "question_text": "Graph coloring",
+        "exam_year_month": "December 2020",
+        "original_question_number": "8. c)",
+        "table": null,
+        "matrix": null,
+        "graph": null
+      },
+      {
+        "serial_number": "Q.98",
+        "question_text": "Find the shortest path from a to z in the following graph, where numbers associated with the edges are the weights.",
+        "exam_year_month": "June 2022",
+        "original_question_number": "5. a)",
+        "table": null,
+        "matrix": null,
+        "graph": {
+          "vertices": ["a", "b", "c", "d", "e", "z"],
+          "edges": [
+            {"from": "a", "to": "b", "weight": "1"},
+            {"from": "a", "to": "c", "weight": "4"},
+            {"from": "b", "to": "c", "weight": "2"},
+            {"from": "b", "to": "d", "weight": "7"},
+            {"from": "b", "to": "e", "weight": "5"},
+            {"from": "c", "to": "e", "weight": "1"},
+            {"from": "d", "to": "z", "weight": "3"},
+            {"from": "d", "to": "e", "weight": "3"},
+            {"from": "e", "to": "z", "weight": "6"}
+          ]
+        }
+      },
+      {
+        "serial_number": "Q.99",
+        "question_text": "Show that a regular binary tree has an odd number of vertices.",
+        "exam_year_month": "June 2022",
+        "original_question_number": "6. a)",
+        "table": null,
+        "matrix": null,
+        "graph": null
+      },
+      {
+        "serial_number": "Q.100",
+        "question_text": "Prove that a connected graph G is Euler graph if and only if every vertex of G is of even degree.",
+        "exam_year_month": "June 2022",
+        "original_question_number": "6. b)",
+        "table": null,
+        "matrix": null,
+        "graph": null
+      },
+      {
+        "serial_number": "Q.101",
+        "question_text": "What is Graph coloring? Define chromatic number give any one example to explain your answer.",
+        "exam_year_month": "June 2022",
+        "original_question_number": "7. a)",
+        "table": null,
+        "matrix": null,
+        "graph": null
+      },
+      {
+        "serial_number": "Q.102",
+        "question_text": "Give a simple condition on the weights of a graph that will guarantee that there is a unique maximal spanning tree for the graph.",
+        "exam_year_month": "November 2022",
+        "original_question_number": "7. a)",
+        "table": null,
+        "matrix": null,
+        "graph": null
+      },
+      {
+        "serial_number": "Q.103",
+        "question_text": "Define Isomorphism of graphs. What are the steps followed in discovering the Isomorphism?",
+        "exam_year_month": "November 2022",
+        "original_question_number": "7. b)",
+        "table": null,
+        "matrix": null,
+        "graph": null
+      },
+      {
+        "serial_number": "Q.104",
+        "question_text": "Explain Eulerian and Hamiltonian graphs with examples, also draw the graphs of the following:\ni) Eulerian but not Hamiltonian\nii) Hamiltonian but not Eulerian",
+        "exam_year_month": "November 2022",
+        "original_question_number": "8. a)",
+        "table": null,
+        "matrix": null,
+        "graph": null
+      },
+      {
+        "serial_number": "Q.105",
+        "question_text": "Prove that the sum of the degree of all the vertices in a graph G is equal to twice the number of edges in G.",
+        "exam_year_month": "November 2022",
+        "original_question_number": "8. b)",
+        "table": null,
+        "matrix": null,
+        "graph": null
+      },
+      {
+        "serial_number": "Q.106",
+        "question_text": "Find the shortest path from a to z in the following graph, where numbers associated with the edges are the weights.",
+        "exam_year_month": "June 2023",
+        "original_question_number": "4. a)",
+        "table": null,
+        "matrix": null,
+        "graph": {
+          "vertices": ["a", "b", "c", "d", "e", "z"],
+          "edges": [
+            {"from": "a", "to": "b", "weight": "1"},
+            {"from": "a", "to": "c", "weight": "4"},
+            {"from": "b", "to": "c", "weight": "2"},
+            {"from": "b", "to": "d", "weight": "7"},
+            {"from": "b", "to": "e", "weight": "5"},
+            {"from": "c", "to": "e", "weight": "1"},
+            {"from": "d", "to": "e", "weight": "3"},
+            {"from": "d", "to": "z", "weight": "3"},
+            {"from": "e", "to": "z", "weight": "6"}
+          ]
+        }
+      },
+      {
+        "serial_number": "Q.107",
+        "question_text": "Distinguish between k-coloring of a graph and chromatic number of a graph.",
+        "exam_year_month": "June 2023",
+        "original_question_number": "4. b)",
+        "table": null,
+        "matrix": null,
+        "graph": null
+      },
+      {
+        "serial_number": "Q.108",
+        "question_text": "Prove that, in a graph total number of odd degree vertices is even but then number of even degree vertices may be odd.",
+        "exam_year_month": "June 2023",
+        "original_question_number": "7. b)",
+        "table": null,
+        "matrix": null,
+        "graph": null
+      },
+      {
+        "serial_number": "Q.109",
+        "question_text": "Determine whether the graphs F1 and F2 are isomorphic.",
+        "exam_year_month": "December 2023",
+        "original_question_number": "6. a)",
+        "table": null,
+        "matrix": null,
+        "graph": {
+          "vertices": ["v1", "v2", "v3", "v4", "v5", "v6"],
+          "edges": []
+        }
+      },
+      {
+        "serial_number": "Q.110",
+        "question_text": "Find an Euler Path in the graph below.",
+        "exam_year_month": "December 2023",
+        "original_question_number": "6. b)",
+        "table": null,
+        "matrix": null,
+        "graph": {
+          "vertices": ["A", "B", "C", "D", "E", "F", "G"],
+          "edges": [
+            {"from": "A", "to": "B"},
+            {"from": "B", "to": "C"},
+            {"from": "C", "to": "E"},
+            {"from": "E", "to": "F"},
+            {"from": "F", "to": "G"},
+            {"from": "G", "to": "A"},
+            {"from": "A", "to": "D"},
+            {"from": "B", "to": "D"},
+            {"from": "C", "to": "D"},
+            {"from": "F", "to": "D"}
+          ]
+        }
+      },
+      {
+        "serial_number": "Q.111",
+        "question_text": "Explain the following.\ni) Euler Graph\nii) Isomorphic graphs\niii) Minimal spanning tree\niv) Height of the tree",
+        "exam_year_month": "June 2024",
+        "original_question_number": "1. a)",
+        "table": null,
+        "matrix": null,
+        "graph": null
+      },
+      {
+        "serial_number": "Q.112",
+        "question_text": "Explain complete digraph and Euler Graph using suitable example of both.",
+        "exam_year_month": "June 2024",
+        "original_question_number": "3. b)",
+        "table": null,
+        "matrix": null,
+        "graph": null
+      },
+      {
+        "serial_number": "Q.113",
+        "question_text": "Define planar graph. Prove that for any connected planar graph, $$v - e + r = 2$$ Where v, e, r is the number of vertices, edges, and regions of the graph respectively.",
+        "exam_year_month": "June 2024",
+        "original_question_number": "4. a)",
+        "table": null,
+        "matrix": null,
+        "graph": null
+      },
+      {
+        "serial_number": "Q.114",
+        "question_text": "Show that there does not exist a graph with 5 vertices with degrees 1, 3, 4, 2, 3 respectively.",
+        "exam_year_month": "December 2024",
+        "original_question_number": "3. a)",
+        "table": null,
+        "matrix": null,
+        "graph": null
+      },
+      {
+        "serial_number": "Q.115",
+        "question_text": "Define planar graph. Prove that for any connected planar graph, $$v - e + r = 2$$ Where v, e, r is the number of vertices, edges, and regions of the graph respectively.",
+        "exam_year_month": "December 2024",
+        "original_question_number": "4. a)",
+        "table": null,
+        "matrix": null,
+        "graph": null
+      },
+      {
+        "serial_number": "Q.116",
+        "question_text": "Discuss about Complete digraph and Euler Graph with the help of suitable examples.",
+        "exam_year_month": "December 2024",
+        "original_question_number": "5. b)",
+        "table": null,
+        "matrix": null,
+        "graph": null
+      },
+      {
+        "serial_number": "Q.117",
+        "question_text": "Define graph theory and explain the basic terminology of graphs such as vertices, edges, degree and adjacency.",
+        "exam_year_month": "June 2025",
+        "original_question_number": "5. a)",
+        "table": null,
+        "matrix": null,
+        "graph": null
+      },
+      {
+        "serial_number": "Q.118",
+        "question_text": "Define and give an example of an isomorphic graph pair. Verify isomorphism between two adjacency matrices.",
+        "exam_year_month": "June 2025",
+        "original_question_number": "5. b)",
+        "table": null,
+        "matrix": null,
+        "graph": null
+      },
+      {
+        "serial_number": "Q.119",
+        "question_text": "For the graph G with vertices $$V = \\{A, B, C, D\\}$$ and edges $$E = \\{(A, B), (B, C), (C, D), (D, A), (A, C)\\}$$, determine :\ni) Whether the graph contains a Eulerian path or circuit or not.\nii) All Hamiltonian circuits in the graph G.",
+        "exam_year_month": "June 2025",
+        "original_question_number": "6. a)",
+        "table": null,
+        "matrix": null,
+        "graph": null
+      },
+      {
+        "serial_number": "Q.120",
+        "question_text": "Define Euler path and Euler circuit. State necessary and sufficient conditions for their existence.",
+        "exam_year_month": "December 2025",
+        "original_question_number": "8. a)",
+        "table": null,
+        "matrix": null,
+        "graph": null
+      },
+      {
+        "serial_number": "Q.121",
+        "question_text": "Explain Dijkstra's Algorithm and find the shortest path from a given source vertex in a weighted graph.",
+        "exam_year_month": "December 2025",
+        "original_question_number": "8. b)",
+        "table": null,
+        "matrix": null,
+        "graph": null
+      }
+    ]
+  },
+  {
+    "unit": "UNIT 5",
+    "questions": [
+      {
+        "serial_number": "Q.122",
+        "question_text": "Solve the recurrence relation\n$$a_{n+2} - 6a_{n+1} + 9a_n = 3(2^n) + 7(3^n), n \\geq 0$$\ngiven test $$a_0 = 1$$ and $$a_1 = 4$$.",
+        "exam_year_month": "December 2020",
+        "original_question_number": "7. a)",
+        "table": null,
+        "matrix": null,
+        "graph": null
+      },
+      {
+        "serial_number": "Q.123",
+        "question_text": "Explain Binomial theorem and prove it. Take any one example to illustrate the theorem.",
+        "exam_year_month": "December 2020",
+        "original_question_number": "7. b)",
+        "table": null,
+        "matrix": null,
+        "graph": null
+      },
+      {
+        "serial_number": "Q.124",
+        "question_text": "Properties of Lattice",
+        "exam_year_month": "December 2020",
+        "original_question_number": "8. a)",
+        "table": null,
+        "matrix": null,
+        "graph": null
+      },
+      {
+        "serial_number": "Q.125",
+        "question_text": "Multinomial coefficients",
+        "exam_year_month": "December 2020",
+        "original_question_number": "8. b)",
+        "table": null,
+        "matrix": null,
+        "graph": null
+      },
+      {
+        "serial_number": "Q.126",
+        "question_text": "Prove that in Boolean algebra $$(a \\vee b)' = a' \\wedge b'$$.",
+        "exam_year_month": "June 2022",
+        "original_question_number": "4. a)",
+        "table": null,
+        "matrix": null,
+        "graph": null
+      },
+      {
+        "serial_number": "Q.127",
+        "question_text": "Draw Hasse diagram for the \"less than or equal to\" relation on set $$A = \\{ 0, 2, 5, 10, 11, 15 \\}$$.",
+        "exam_year_month": "June 2022",
+        "original_question_number": "5. b)",
+        "table": null,
+        "matrix": null,
+        "graph": null
+      },
+      {
+        "serial_number": "Q.128",
+        "question_text": "Solve the recurrence relation :\n$$a_r - 7a_{r-1} + 10a_{r-2} = 0$$ given $$a_0 = 0$$ and $$a_1 = 6$$.",
+        "exam_year_month": "June 2022",
+        "original_question_number": "7. b)",
+        "table": null,
+        "matrix": null,
+        "graph": null
+      },
+      {
+        "serial_number": "Q.129",
+        "question_text": "Hasse diagram",
+        "exam_year_month": "June 2022",
+        "original_question_number": "8. a)",
+        "table": null,
+        "matrix": null,
+        "graph": null
+      },
+      {
+        "serial_number": "Q.130",
+        "question_text": "Lattices",
+        "exam_year_month": "June 2022",
+        "original_question_number": "8. b)",
+        "table": null,
+        "matrix": null,
+        "graph": null
+      },
+      {
+        "serial_number": "Q.131",
+        "question_text": "Binomial theorem",
+        "exam_year_month": "June 2022",
+        "original_question_number": "8. c)",
+        "table": null,
+        "matrix": null,
+        "graph": null
+      },
+      {
+        "serial_number": "Q.132",
+        "question_text": "Find the explicit formula for the Fibonacci numbers. Use $$f_n = f_{n-1} + f_{n-2}$$ as recursive condition and $$f_0 = 0$$ and $$f_1 = 1$$ as initial condition.",
+        "exam_year_month": "November 2022",
+        "original_question_number": "3. a)",
+        "table": null,
+        "matrix": null,
+        "graph": null
+      },
+      {
+        "serial_number": "Q.133",
+        "question_text": "Draw the Hasse diagram representing the positive divisors of 36.",
+        "exam_year_month": "November 2022",
+        "original_question_number": "3. b)",
+        "table": null,
+        "matrix": null,
+        "graph": null
+      },
+      {
+        "serial_number": "Q.134",
+        "question_text": "Solve the following recurrence relation:\n$$a_r - 7a_{r-1} + 10a_{r-2} = 3^r$$\ngiven that $$a_0 = 0, a_1 = 1$$",
+        "exam_year_month": "June 2023",
+        "original_question_number": "5. a)",
+        "table": null,
+        "matrix": null,
+        "graph": null
+      },
+      {
+        "serial_number": "Q.135",
+        "question_text": "Explain Binomial theorem and prove it. Take any one example to illustrate the theorem.",
+        "exam_year_month": "June 2023",
+        "original_question_number": "5. b)",
+        "table": null,
+        "matrix": null,
+        "graph": null
+      },
+      {
+        "serial_number": "Q.136",
+        "question_text": "Lattice",
+        "exam_year_month": "June 2023",
+        "original_question_number": "8. b)",
+        "table": null,
+        "matrix": null,
+        "graph": null
+      },
+      {
+        "serial_number": "Q.137",
+        "question_text": "Define a lattice. Let $$(L, \\leq, \\vee, \\wedge)$$ be a lattice, and $$a, b, c, d \\in L$$ be such that $$a \\leq b$$ and $$c \\leq d$$. Show that $$a \\vee c \\leq b \\vee d$$ and $$a \\wedge c \\leq b \\wedge d$$.",
+        "exam_year_month": "December 2023",
+        "original_question_number": "7. a)",
+        "table": null,
+        "matrix": null,
+        "graph": null
+      },
+      {
+        "serial_number": "Q.138",
+        "question_text": "Show that $$D_{12}$$ and $$D_{18}$$ are isomorphic lattices. Further, show that none is isomorphic to the lattice $$D_{20}$$.",
+        "exam_year_month": "December 2023",
+        "original_question_number": "7. b)",
+        "table": null,
+        "matrix": null,
+        "graph": null
+      },
+      {
+        "serial_number": "Q.139",
+        "question_text": "Show that $$a_n = c_1 2^n + c_2 4^n$$ is a solution of the recurrence relation $$a_n - 6a_{n-1} + 8a_{n-2} = 0$$.",
+        "exam_year_month": "December 2023",
+        "original_question_number": "8. a)",
+        "table": null,
+        "matrix": null,
+        "graph": null
+      },
+      {
+        "serial_number": "Q.140",
+        "question_text": "Find the sequence having the generating function $$G(x)$$ given by $$\\frac{x}{1 - 2x}$$.",
+        "exam_year_month": "December 2023",
+        "original_question_number": "8. b)",
+        "table": null,
+        "matrix": null,
+        "graph": null
+      },
+      {
+        "serial_number": "Q.141",
+        "question_text": "Prove that the Complement of each element in a Boolean Algebra B is unique.",
+        "exam_year_month": "June 2024",
+        "original_question_number": "2. a)",
+        "table": null,
+        "matrix": null,
+        "graph": null
+      },
+      {
+        "serial_number": "Q.142",
+        "question_text": "Let A be any finite set and P(A) be the power set of A. $$\\subseteq$$ be the inclusion relation on the elements of P(A). Draw the Hasse diagrams of $$(P(A), \\subseteq)$$ for the following\ni) $$A = \\{a\\}$$\nii) $$A = \\{a, b\\}$$\niii) $$A = \\{a, b, c\\}$$\niv) $$A = \\{a, b, c, d\\}$$",
+        "exam_year_month": "June 2024",
+        "original_question_number": "2. b)",
+        "table": null,
+        "matrix": null,
+        "graph": null
+      },
+      {
+        "serial_number": "Q.143",
+        "question_text": "Draw the Hasse diagram representing the positive divisors of 36 and 45.",
+        "exam_year_month": "June 2024",
+        "original_question_number": "5. b)",
+        "table": null,
+        "matrix": null,
+        "graph": null
+      },
+      {
+        "serial_number": "Q.144",
+        "question_text": "Obtain the generating function for the sequence 4, 4, 4, 4, 4, 4. Explain complete digraph.",
+        "exam_year_month": "December 2024",
+        "original_question_number": "3. b)",
+        "table": null,
+        "matrix": null,
+        "graph": null
+      },
+      {
+        "serial_number": "Q.145",
+        "question_text": "A collection of 10 electric bulbs contain 3 defective ones (i) In how many ways can a sample of four bulbs be selected? (ii) In how many ways can a sample of 4 bulbs be selected which contain 2 good bulbs and 2 defective ones? (iii) In how many ways can a sample of 4 bulbs be selected so that either the sample contains 3 good ones and 1 defectives ones or 1 good and 3 defectives ones?",
+        "exam_year_month": "December 2024",
+        "original_question_number": "5. a)",
+        "table": null,
+        "matrix": null,
+        "graph": null
+      },
+      {
+        "serial_number": "Q.146",
+        "question_text": "Solve the following recurrence equation using generating function.\n$$G(K) - 7 G(K-1) + 10 G(K-2) = 8K + 6$$.",
+        "exam_year_month": "December 2024",
+        "original_question_number": "6. a)",
+        "table": null,
+        "matrix": null,
+        "graph": null
+      },
+      {
+        "serial_number": "Q.147",
+        "question_text": "Let $$(L, \\vee, \\wedge, \\leq)$$ be a distributive lattice and $$a b, \\in L$$. if $$a \\wedge b = a \\wedge c$$ and $$a \\vee b = a \\vee c$$ then show that $$b = c$$.",
+        "exam_year_month": "December 2024",
+        "original_question_number": "7. a)",
+        "table": null,
+        "matrix": null,
+        "graph": null
+      },
+      {
+        "serial_number": "Q.148",
+        "question_text": "How many permutations can be formed from the letters of the word \"MATHEMATICS\" such that all vowels are together?",
+        "exam_year_month": "June 2025",
+        "original_question_number": "6. b)",
+        "table": null,
+        "matrix": null,
+        "graph": null
+      },
+      {
+        "serial_number": "Q.149",
+        "question_text": "What is a Hasse diagram? Draw the Hasse diagram for the set $$\\{\\mathbf{1}, \\mathbf{2}, \\mathbf{3}, \\mathbf{6}, \\mathbf{9}, \\mathbf{18}\\}$$ with the divisibility relation.",
+        "exam_year_month": "June 2025",
+        "original_question_number": "7. a)",
+        "table": null,
+        "matrix": null,
+        "graph": null
+      },
+      {
+        "serial_number": "Q.150",
+        "question_text": "Define a lattice and prove that every finite lattice has a unique least upper bound and greatest lower bound.",
+        "exam_year_month": "June 2025",
+        "original_question_number": "7. b)",
+        "table": null,
+        "matrix": null,
+        "graph": null
+      },
+      {
+        "serial_number": "Q.151",
+        "question_text": "Binomial theorem",
+        "exam_year_month": "June 2025",
+        "original_question_number": "8. ii)",
+        "table": null,
+        "matrix": null,
+        "graph": null
+      }
+    ]
+  }
+]
