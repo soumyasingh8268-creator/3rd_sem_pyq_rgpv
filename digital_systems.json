@@ -1,1 +1,1067 @@
-
+[
+  {
+    "unit": "UNIT-01",
+    "questions": [
+      {
+        "serial_number": "Q.1",
+        "question_text": "Simplify the Boolean function F together with the don't-care conditions d in following forms: i) sum-of-products ii) product-of-sums $$F(w, x, y, z) = \\Sigma(0, 1, 2, 3, 7, 8, 10)$$ $$d(w, x, y, z) = \\Sigma(5, 6, 11, 15)$$ ",
+        "exam_year_month": "December 2020",
+        "original_question_number": "1. a)",
+        "table": null,
+        "matrix": null,
+        "graph": null
+      },
+      {
+        "serial_number": "Q.2",
+        "question_text": "Give a Boolean expression that corresponds to this logic circuit. Develop a truth table for the circuit, showing columns for atleast the output of each 2-input gate. You should invent new variable names for these intermediate outputs.",
+        "exam_year_month": "December 2020",
+        "original_question_number": "1. b)",
+        "table": null,
+        "matrix": null,
+        "graph": {
+          "vertices": [
+            "A",
+            "B",
+            "C",
+            "Gate_AND_1",
+            "Gate_AND_2",
+            "Gate_NAND",
+            "Gate_XOR",
+            "Gate_OR",
+            "Z"
+          ],
+          "edges": [
+            {
+              "from": "A",
+              "to": "Gate_AND_1"
+            },
+            {
+              "from": "B",
+              "to": "Gate_AND_1"
+            },
+            {
+              "from": "A",
+              "to": "Gate_AND_2"
+            },
+            {
+              "from": "Gate_AND_1",
+              "to": "Gate_XOR"
+            },
+            {
+              "from": "Gate_AND_2",
+              "to": "Gate_XOR"
+            },
+            {
+              "from": "B",
+              "to": "Gate_NAND"
+            },
+            {
+              "from": "C",
+              "to": "Gate_NAND"
+            },
+            {
+              "from": "Gate_NAND",
+              "to": "Gate_OR"
+            },
+            {
+              "from": "Gate_XOR",
+              "to": "Gate_OR"
+            },
+            {
+              "from": "Gate_OR",
+              "to": "Z"
+            }
+          ]
+        }
+      },
+      {
+        "serial_number": "Q.3",
+        "question_text": "Design a combinational logic circuit with 4 inputs A, B, C, D. The output Y goes High if and only if A and C inputs go High. Draw the truth table. Minimize the Boolean function using K-map. Draw the circuit diagram.",
+        "exam_year_month": "December 2020",
+        "original_question_number": "2. a)",
+        "table": null,
+        "matrix": null,
+        "graph": null
+      },
+      {
+        "serial_number": "Q.4",
+        "question_text": "Convert $$(138.32)_{10}$$ to: i) Binary ii) Octal iii) Hexadecimal",
+        "exam_year_month": "December 2020",
+        "original_question_number": "2. b)",
+        "table": null,
+        "matrix": null,
+        "graph": null
+      },
+      {
+        "serial_number": "Q.5",
+        "question_text": "Given the following Boolean function: $$F(W,X,Y,Z) = WX'(Y' + Z') + X'.Z'.(W' \\oplus Y)$$ where $$\\oplus$$ represents the XNOR operation, determine the simplified(minimal) SOP expression for F using boolean algebra and Implement the given function using NOR-NOR logic.",
+        "exam_year_month": "November 2022",
+        "original_question_number": "1. a)",
+        "table": null,
+        "matrix": null,
+        "graph": null
+      },
+      {
+        "serial_number": "Q.6",
+        "question_text": "Compute the prime implicants (PI) and essential prime implicants (EPI) in the following Boolean function $$F(W, X, Y, Z) = \\Pi M(1, 3, 5, 7, 8, 9, 11, 12) + d(2, 10)$$ Compute a minimal SOP expression for F and determine whether it is unique.",
+        "exam_year_month": "November 2022",
+        "original_question_number": "1. b)",
+        "table": null,
+        "matrix": null,
+        "graph": null
+      },
+      {
+        "serial_number": "Q.7",
+        "question_text": "Each of the following functions actually represents a set of four functions, corresponding to the possible assignments of the don't-care terms. $$f_1(w, x, y, z) = \\Sigma(1, 3, 5, 6, 9, 10) + \\Sigma \\phi (11, 12)$$ $$f_2(w, x, y, z) = \\Sigma(0, 3, 4, 5, 8, 9) + \\Sigma \\phi (6, 7)$$ i) Find $$f_3 = f_1 . f_2$$. How many functions does $$f_3$$ represent? ii) Find $$f_4 = f_1 + f_2$$. How many functions does $$f_4$$ represent?",
+        "exam_year_month": "November 2022",
+        "original_question_number": "2. a)",
+        "table": null,
+        "matrix": null,
+        "graph": null
+      },
+      {
+        "serial_number": "Q.8",
+        "question_text": "Given the network of Fig., determine the functions $$f_2$$ and $$f_3$$ if $$f_1 = xz + x'z'$$ and the overall transmission function is to be $$f(w, x, y, z) = \\Sigma(0, 3, 6, 10, 11, 12)$$.",
+        "exam_year_month": "November 2022",
+        "original_question_number": "2. b)",
+        "table": null,
+        "matrix": null,
+        "graph": {
+          "vertices": [
+            "f1",
+            "f2",
+            "Gate_AND",
+            "Gate_OR",
+            "f3",
+            "f(w,x,y,z)"
+          ],
+          "edges": [
+            {
+              "from": "f1",
+              "to": "Gate_AND"
+            },
+            {
+              "from": "f2",
+              "to": "Gate_AND"
+            },
+            {
+              "from": "Gate_AND",
+              "to": "Gate_OR"
+            },
+            {
+              "from": "f3",
+              "to": "Gate_OR"
+            },
+            {
+              "from": "Gate_OR",
+              "to": "f(w,x,y,z)"
+            }
+          ]
+        }
+      },
+      {
+        "serial_number": "Q.9",
+        "question_text": "Covert Decimal to Binary i) $$(1024)_{10}$$ ii) $$(23.25)_{10}$$",
+        "exam_year_month": "November 2022",
+        "original_question_number": "5. a)",
+        "table": null,
+        "matrix": null,
+        "graph": null
+      },
+      {
+        "serial_number": "Q.10",
+        "question_text": "Convert the following: i) $$(B2F8)_{16} = (?)_{8}$$ ii) $$(113.2)_{8} = (?)_{2}$$ iii) $$(0100011)_{2}$$ ------ $$(........)_{Gray}$$ iv) $$(249)_{10}$$ -------- $$(........)_{BCD}$$ v) $$(A2B.1A)_{16} = (?)_{10}$$",
+        "exam_year_month": "June 2023",
+        "original_question_number": "1. a)",
+        "table": null,
+        "matrix": null,
+        "graph": null
+      },
+      {
+        "serial_number": "Q.11",
+        "question_text": "Convert the following expression into sum of product and product of sums. $$X' + X(X + Y')(Y + Z')$$ ",
+        "exam_year_month": "June 2023",
+        "original_question_number": "1. b)",
+        "table": null,
+        "matrix": null,
+        "graph": null
+      },
+      {
+        "serial_number": "Q.12",
+        "question_text": "What do you mean by logic gates? Describe the various types of gates.",
+        "exam_year_month": "June 2023",
+        "original_question_number": "2. a)",
+        "table": null,
+        "matrix": null,
+        "graph": null
+      },
+      {
+        "serial_number": "Q.13",
+        "question_text": "Karnaugh Map",
+        "exam_year_month": "June 2023",
+        "original_question_number": "8. iv)",
+        "table": null,
+        "matrix": null,
+        "graph": null
+      },
+      {
+        "serial_number": "Q.14",
+        "question_text": "Convert the following decimal numbers to the indicated bases: i) $$(516)_7 = (?)_{10} = (?)_{16}$$ ii) $$(250.5)_{10} = (?)_{8} = (?)_{4}$$ iii) $$(2ED)_{16} = (?)_{8} = (?)_{2}$$ iv) Obtain the 9's and 10's complement of $$(864)_{10}$$.",
+        "exam_year_month": "December 2024",
+        "original_question_number": "1. a)",
+        "table": null,
+        "matrix": null,
+        "graph": null
+      },
+      {
+        "serial_number": "Q.15",
+        "question_text": "Represent the decimal number 6 in i) Excess-3 code ii) BCD code iii) Gray code iv) 84-2-1 code v) 2421 codes",
+        "exam_year_month": "December 2024",
+        "original_question_number": "1. b)",
+        "table": null,
+        "matrix": null,
+        "graph": null
+      },
+      {
+        "serial_number": "Q.16",
+        "question_text": "Simplify the following expression as much as possible: $$F(w, x, y, z) = y'z' + w'x'z' + w'xyz' + wyz'$$ and implement your result using universal gates only.",
+        "exam_year_month": "December 2024",
+        "original_question_number": "2. a)",
+        "table": null,
+        "matrix": null,
+        "graph": null
+      },
+      {
+        "serial_number": "Q.17",
+        "question_text": "Express the following Boolean function F in a sum of min terms and a product of max terms. $$F(x, y, z) = (xy + z)(y + xz)$$ ",
+        "exam_year_month": "December 2024",
+        "original_question_number": "2. b)",
+        "table": null,
+        "matrix": null,
+        "graph": null
+      },
+      {
+        "serial_number": "Q.18",
+        "question_text": "Add $$(83)_{10}$$ and $$(34)_{10}$$ in BCD.",
+        "exam_year_month": "December 2023",
+        "original_question_number": "1. a) i)",
+        "table": null,
+        "matrix": null,
+        "graph": null
+      },
+      {
+        "serial_number": "Q.19",
+        "question_text": "Convert the base-7 number $$(35614)_7$$ to base-12.",
+        "exam_year_month": "December 2023",
+        "original_question_number": "1. a) ii)",
+        "table": null,
+        "matrix": null,
+        "graph": null
+      },
+      {
+        "serial_number": "Q.20",
+        "question_text": "Explain how the basic gates can be realized using NOR gates?",
+        "exam_year_month": "December 2023",
+        "original_question_number": "1. b)",
+        "table": null,
+        "matrix": null,
+        "graph": null
+      },
+      {
+        "serial_number": "Q.21",
+        "question_text": "Reduce the expression $$Y = \\Sigma m(1, 4, 8, 12, 13, 15) + d(3, 14)$$ using K-maps and implement the real minimal expression using basic logic gates.",
+        "exam_year_month": "December 2023",
+        "original_question_number": "6. a)",
+        "table": null,
+        "matrix": null,
+        "graph": null
+      },
+      {
+        "serial_number": "Q.22",
+        "question_text": "Convert the following: i) $$(753)_8$$ to decimal ii) $$(4A3)_{16}$$ to binary iii) $$(101101.101)_2$$ to decimal iv) $$(45.625)_{10}$$ to Binary v) $$(110101101)_2$$ to Hexadecimal vi) $$(74)_{10}$$ to Excess-3 code vii) $$(11011101)_2$$ to Gray code",
+        "exam_year_month": "December 2025",
+        "original_question_number": "1. (a)",
+        "table": null,
+        "matrix": null,
+        "graph": null
+      },
+      {
+        "serial_number": "Q.23",
+        "question_text": "Simplify the following function using 3-variable K-map: $$F(A, B, C) = \\Sigma m(1, 2, 3, 5, 7)$$ Also draw the simplified logic diagram.",
+        "exam_year_month": "December 2025",
+        "original_question_number": "1. (b)",
+        "table": null,
+        "matrix": null,
+        "graph": null
+      },
+      {
+        "serial_number": "Q.24",
+        "question_text": "Implement the Boolean function using only NAND gates: $$F(A, B, C) = AB + A'C$$",
+        "exam_year_month": "December 2025",
+        "original_question_number": "2. (a)",
+        "table": null,
+        "matrix": null,
+        "graph": null
+      },
+      {
+        "serial_number": "Q.25",
+        "question_text": "Logic Gates",
+        "exam_year_month": "December 2025",
+        "original_question_number": "8. (a)",
+        "table": null,
+        "matrix": null,
+        "graph": null
+      }
+    ]
+  },
+  {
+    "unit": "UNIT-02",
+    "questions": [
+      {
+        "serial_number": "Q.26",
+        "question_text": "Explain the addition of $$1010_2$$ to $$1011_2$$ using full adder step by step.",
+        "exam_year_month": "December 2020",
+        "original_question_number": "3. a)",
+        "table": null,
+        "matrix": null,
+        "graph": null
+      },
+      {
+        "serial_number": "Q.27",
+        "question_text": "How a multiplexer can be used as ROM? Explain in brief.",
+        "exam_year_month": "December 2020",
+        "original_question_number": "3. b)",
+        "table": null,
+        "matrix": null,
+        "graph": null
+      },
+      {
+        "serial_number": "Q.28",
+        "question_text": "Design the binary to octal Decoder and explain its working using block diagram.",
+        "exam_year_month": "December 2020",
+        "original_question_number": "4. a)",
+        "table": null,
+        "matrix": null,
+        "graph": null
+      },
+      {
+        "serial_number": "Q.29",
+        "question_text": "Design Half adder using NAND gates. Also Draw the diagram?",
+        "exam_year_month": "December 2020",
+        "original_question_number": "4. b)",
+        "table": null,
+        "matrix": null,
+        "graph": null
+      },
+      {
+        "serial_number": "Q.30",
+        "question_text": "Design a 8 x 1 multiplexer using one 4 x 1 multiplexer and four 2 x 1 multiplexers.",
+        "exam_year_month": "November 2022",
+        "original_question_number": "3. a)",
+        "table": null,
+        "matrix": null,
+        "graph": null
+      },
+      {
+        "serial_number": "Q.31",
+        "question_text": "Design a combinational logic circuit to convert the BCD to excess-3 code.",
+        "exam_year_month": "November 2022",
+        "original_question_number": "3. b)",
+        "table": null,
+        "matrix": null,
+        "graph": null
+      },
+      {
+        "serial_number": "Q.32",
+        "question_text": "Design a 3 x 8 decoder using one 1 x 2 decoder and two 2 x 4 decoder with Enable input.",
+        "exam_year_month": "November 2022",
+        "original_question_number": "4. a)",
+        "table": null,
+        "matrix": null,
+        "graph": null
+      },
+      {
+        "serial_number": "Q.33",
+        "question_text": "Draw a schematic for a minimal circuit that uses only NOR gates that performs the two's complement operation on a four bit input value. Let the input be $$A_{3:0}$$ and the output be $$B_{3:0}$$.",
+        "exam_year_month": "November 2022",
+        "original_question_number": "4. b)",
+        "table": null,
+        "matrix": null,
+        "graph": null
+      },
+      {
+        "serial_number": "Q.34",
+        "question_text": "What do you understand by Adder Circuit? Design and Implement Full Adder using Two half adder and OR Gate.",
+        "exam_year_month": "June 2023",
+        "original_question_number": "2. b)",
+        "table": null,
+        "matrix": null,
+        "graph": null
+      },
+      {
+        "serial_number": "Q.35",
+        "question_text": "Draw and explain the BCD adder circuit.",
+        "exam_year_month": "June 2023",
+        "original_question_number": "3. a)",
+        "table": null,
+        "matrix": null,
+        "graph": null
+      },
+      {
+        "serial_number": "Q.36",
+        "question_text": "Realize the function $$f(A, B, C, D) = \\pi (1, 4, 6, 10, 14) + d(0, 8, 11, 15)$$ using: i) 16:1 MUX ii) 8:1 MUX",
+        "exam_year_month": "June 2023",
+        "original_question_number": "3. b)",
+        "table": null,
+        "matrix": null,
+        "graph": null
+      },
+      {
+        "serial_number": "Q.37",
+        "question_text": "Look ahead carry generator",
+        "exam_year_month": "June 2023",
+        "original_question_number": "8. iii)",
+        "table": null,
+        "matrix": null,
+        "graph": null
+      },
+      {
+        "serial_number": "Q.38",
+        "question_text": "What is the role of multiplexer in the digital electronics? Explain the logic how it selects a one input among several inputs?",
+        "exam_year_month": "December 2024",
+        "original_question_number": "3. a)",
+        "table": null,
+        "matrix": null,
+        "graph": null
+      },
+      {
+        "serial_number": "Q.39",
+        "question_text": "Write a short note on decoder.",
+        "exam_year_month": "December 2024",
+        "original_question_number": "3. b)",
+        "table": null,
+        "matrix": null,
+        "graph": null
+      },
+      {
+        "serial_number": "Q.40",
+        "question_text": "Draw a full subtractor circuit using NAND gate.",
+        "exam_year_month": "December 2024",
+        "original_question_number": "4. a)",
+        "table": null,
+        "matrix": null,
+        "graph": null
+      },
+      {
+        "serial_number": "Q.41",
+        "question_text": "Design a Half adder circuit with truth table and logic diagrams.",
+        "exam_year_month": "December 2023",
+        "original_question_number": "2. a)",
+        "table": null,
+        "matrix": null,
+        "graph": null
+      },
+      {
+        "serial_number": "Q.42",
+        "question_text": "A combinational circuit is defined by the following Boolean functions. Design circuit with a decoder and external gates: $$F_1(x, y, z) = x'y'z' + xz$$ $$F_2(x, y, z) = xyz' + x'z$$",
+        "exam_year_month": "December 2023",
+        "original_question_number": "2. b)",
+        "table": null,
+        "matrix": null,
+        "graph": null
+      },
+      {
+        "serial_number": "Q.43",
+        "question_text": "What are the different types of parallel adders? Explain carry save and carry look-ahead adders.",
+        "exam_year_month": "December 2023",
+        "original_question_number": "6. b)",
+        "table": null,
+        "matrix": null,
+        "graph": null
+      },
+      {
+        "serial_number": "Q.44",
+        "question_text": "Explain the working of a Full Adder with truth table and logic diagram. Why is it required in arithmetic circuits?",
+        "exam_year_month": "December 2025",
+        "original_question_number": "2. (b)",
+        "table": null,
+        "matrix": null,
+        "graph": null
+      },
+      {
+        "serial_number": "Q.45",
+        "question_text": "Implement the Boolean function $$F(A, B, C) = \\Sigma m(1, 3, 6, 7)$$ using a 4:1 multiplexer.",
+        "exam_year_month": "December 2025",
+        "original_question_number": "3. (a)",
+        "table": null,
+        "matrix": null,
+        "graph": null
+      },
+      {
+        "serial_number": "Q.46",
+        "question_text": "Design a decimal-to-BCD encoder and explain its working.",
+        "exam_year_month": "December 2025",
+        "original_question_number": "3. (b)",
+        "table": null,
+        "matrix": null,
+        "graph": null
+      },
+      {
+        "serial_number": "Q.47",
+        "question_text": "look-ahead carry generator",
+        "exam_year_month": "December 2025",
+        "original_question_number": "8. (b)",
+        "table": null,
+        "matrix": null,
+        "graph": null
+      }
+    ]
+  },
+  {
+    "unit": "UNIT-03",
+    "questions": [
+      {
+        "serial_number": "Q.48",
+        "question_text": "Explain the race condition in S-R flip flop. Also explain how it is removed in J-K flip flop.",
+        "exam_year_month": "December 2020",
+        "original_question_number": "5. a)",
+        "table": null,
+        "matrix": null,
+        "graph": null
+      },
+      {
+        "serial_number": "Q.49",
+        "question_text": "What is a Shift Register? Draw and explain shift Left-Right shift register.",
+        "exam_year_month": "December 2020",
+        "original_question_number": "5. b)",
+        "table": null,
+        "matrix": null,
+        "graph": null
+      },
+      {
+        "serial_number": "Q.50",
+        "question_text": "Draw the state diagram for the following specification sequential systems: Input: x(t),y(t) $$\\in$$ {0,1} Output: z(t) $$\\in$$ {0,1} State: s(t) $$\\in$$ {Even, odd} Initial state: s(0) = Even Functions: The transition and output functions are s(t+1) = even if x(t) and y(t) both are even s(t+1) = odd otherwise z(t) = 1 if x(t) and y(t) both are even z(t) = 0 otherwise",
+        "exam_year_month": "November 2022",
+        "original_question_number": "5. b)",
+        "table": null,
+        "matrix": null,
+        "graph": null
+      },
+      {
+        "serial_number": "Q.51",
+        "question_text": "Design a synchronous counter to count in the random sequence 0, 2, 4, 5, 7, 0, 2, 4, 5, 7 ... using D flip-flop.",
+        "exam_year_month": "November 2022",
+        "original_question_number": "6. a)",
+        "table": null,
+        "matrix": null,
+        "graph": null
+      },
+      {
+        "serial_number": "Q.52",
+        "question_text": "Design a sequential circuit using T flip-flop for the following state table.",
+        "exam_year_month": "November 2022",
+        "original_question_number": "6. b)",
+        "table": {
+          "headers": [
+            "Present State S(t)",
+            "Input X = 0",
+            "Input X = 1"
+          ],
+          "data": [
+            [
+              "S1",
+              "S1/1",
+              "S4/0"
+            ],
+            [
+              "S2",
+              "S2/1",
+              "S4/1"
+            ],
+            [
+              "S3",
+              "S2/1",
+              "S1/0"
+            ],
+            [
+              "S4",
+              "S4/0",
+              "S2/0"
+            ]
+          ]
+        },
+        "matrix": null,
+        "graph": null
+      },
+      {
+        "serial_number": "Q.53",
+        "question_text": "Explain the concept of working and applications of following memories: i) ROM ii) PLA iii) DRAM iv) FLASH RAM",
+        "exam_year_month": "November 2022",
+        "original_question_number": "7. b)",
+        "table": null,
+        "matrix": null,
+        "graph": null
+      },
+      {
+        "serial_number": "Q.54",
+        "question_text": "What is meant by 'edge triggered'? Differentiate SR-FF and JK-FF with their functional operation and excitation tables.",
+        "exam_year_month": "June 2023",
+        "original_question_number": "4. a)",
+        "table": null,
+        "matrix": null,
+        "graph": null
+      },
+      {
+        "serial_number": "Q.55",
+        "question_text": "Describe the 4-bit universal shift register with a neat diagram.",
+        "exam_year_month": "June 2023",
+        "original_question_number": "4. b)",
+        "table": null,
+        "matrix": null,
+        "graph": null
+      },
+      {
+        "serial_number": "Q.56",
+        "question_text": "Design a 4-bit up/down Synchronous binary counter. Explain with a neat timing diagram.",
+        "exam_year_month": "June 2023",
+        "original_question_number": "5. a)",
+        "table": null,
+        "matrix": null,
+        "graph": null
+      },
+      {
+        "serial_number": "Q.57",
+        "question_text": "PLA",
+        "exam_year_month": "June 2023",
+        "original_question_number": "8. ii)",
+        "table": null,
+        "matrix": null,
+        "graph": null
+      },
+      {
+        "serial_number": "Q.58",
+        "question_text": "Explain race-around condition in relation to the J-K flip-flops using timing relationships. Draw the clocked Master-Slave J-K flip-flop configuration and explain how it removes race-around condition in J-K flip-flops?",
+        "exam_year_month": "December 2024",
+        "original_question_number": "4. b)",
+        "table": null,
+        "matrix": null,
+        "graph": null
+      },
+      {
+        "serial_number": "Q.59",
+        "question_text": "Design a ripple decade counter using JK flip-flop.",
+        "exam_year_month": "December 2024",
+        "original_question_number": "5. a)",
+        "table": null,
+        "matrix": null,
+        "graph": null
+      },
+      {
+        "serial_number": "Q.60",
+        "question_text": "Draw and explain 4-bit universal shift register.",
+        "exam_year_month": "December 2024",
+        "original_question_number": "5. b)",
+        "table": null,
+        "matrix": null,
+        "graph": null
+      },
+      {
+        "serial_number": "Q.61",
+        "question_text": "Write a short note on PLA.",
+        "exam_year_month": "December 2024",
+        "original_question_number": "6. b)",
+        "table": null,
+        "matrix": null,
+        "graph": null
+      },
+      {
+        "serial_number": "Q.62",
+        "question_text": "Explain the working of the master slave JK flip-flop.",
+        "exam_year_month": "December 2023",
+        "original_question_number": "3. a)",
+        "table": null,
+        "matrix": null,
+        "graph": null
+      },
+      {
+        "serial_number": "Q.63",
+        "question_text": "Design a 3-bit binary UP/DOWN counter with a direction control M, Use T flip-flop.",
+        "exam_year_month": "December 2023",
+        "original_question_number": "3. b)",
+        "table": null,
+        "matrix": null,
+        "graph": null
+      },
+      {
+        "serial_number": "Q.64",
+        "question_text": "Explain: DRAM and FLASH RAM.",
+        "exam_year_month": "December 2023",
+        "original_question_number": "7. b)",
+        "table": null,
+        "matrix": null,
+        "graph": null
+      },
+      {
+        "serial_number": "Q.65",
+        "question_text": "Explain the working of a Master-Slave J-K flip-flop with timing diagram.",
+        "exam_year_month": "December 2025",
+        "original_question_number": "4. (a)",
+        "table": null,
+        "matrix": null,
+        "graph": null
+      },
+      {
+        "serial_number": "Q.66",
+        "question_text": "Explain asynchronous counters and synchronous counters. Compare them with respect to speed and hardware complexity.",
+        "exam_year_month": "December 2025",
+        "original_question_number": "4. (b)",
+        "table": null,
+        "matrix": null,
+        "graph": null
+      },
+      {
+        "serial_number": "Q.67",
+        "question_text": "Implement the Boolean functions using PLA: $$F1 = A'B + AC$$ $$F2 = AB + BC'$$ Draw the PLA programming table.",
+        "exam_year_month": "December 2025",
+        "original_question_number": "5. (a)",
+        "table": null,
+        "matrix": null,
+        "graph": null
+      },
+      {
+        "serial_number": "Q.68",
+        "question_text": "S-R Flip-Flop",
+        "exam_year_month": "December 2025",
+        "original_question_number": "8. (c)",
+        "table": null,
+        "matrix": null,
+        "graph": null
+      }
+    ]
+  },
+  {
+    "unit": "UNIT-04",
+    "questions": [
+      {
+        "serial_number": "Q.69",
+        "question_text": "How is interfacing of TTL to MOS achieved?",
+        "exam_year_month": "December 2020",
+        "original_question_number": "6. a)",
+        "table": null,
+        "matrix": null,
+        "graph": null
+      },
+      {
+        "serial_number": "Q.70",
+        "question_text": "Describe the application of Monostable multivibrator?",
+        "exam_year_month": "December 2020",
+        "original_question_number": "6. b)",
+        "table": null,
+        "matrix": null,
+        "graph": null
+      },
+      {
+        "serial_number": "Q.71",
+        "question_text": "Describe 2-bit simultaneous A/D Converter.",
+        "exam_year_month": "December 2020",
+        "original_question_number": "7. a)",
+        "table": null,
+        "matrix": null,
+        "graph": null
+      },
+      {
+        "serial_number": "Q.72",
+        "question_text": "Explain Interfacing between TTL and MOS with example.",
+        "exam_year_month": "November 2022",
+        "original_question_number": "7. a)",
+        "table": null,
+        "matrix": null,
+        "graph": null
+      },
+      {
+        "serial_number": "Q.73",
+        "question_text": "A/D and D/A convertors",
+        "exam_year_month": "November 2022",
+        "original_question_number": "8. i)",
+        "table": null,
+        "matrix": null,
+        "graph": null
+      },
+      {
+        "serial_number": "Q.74",
+        "question_text": "CMOS Logic",
+        "exam_year_month": "November 2022",
+        "original_question_number": "8. ii)",
+        "table": null,
+        "matrix": null,
+        "graph": null
+      },
+      {
+        "serial_number": "Q.75",
+        "question_text": "Explain the principle working of sample and hold circuit.",
+        "exam_year_month": "June 2023",
+        "original_question_number": "5. b)",
+        "table": null,
+        "matrix": null,
+        "graph": null
+      },
+      {
+        "serial_number": "Q.76",
+        "question_text": "A n-bit Analog to Digital converter (ADC) is required to convert an analog input in the range 0-5 V dc to an accuracy of 5mv. Find the value of n.",
+        "exam_year_month": "June 2023",
+        "original_question_number": "6. a)",
+        "table": null,
+        "matrix": null,
+        "graph": null
+      },
+      {
+        "serial_number": "Q.77",
+        "question_text": "With the help of circuit diagram explain the working of V-F converters.",
+        "exam_year_month": "June 2023",
+        "original_question_number": "6. b)",
+        "table": null,
+        "matrix": null,
+        "graph": null
+      },
+      {
+        "serial_number": "Q.78",
+        "question_text": "Schmitt trigger",
+        "exam_year_month": "June 2023",
+        "original_question_number": "8. i)",
+        "table": null,
+        "matrix": null,
+        "graph": null
+      },
+      {
+        "serial_number": "Q.79",
+        "question_text": "With a neat diagram explain the operation of R-2R DAC.",
+        "exam_year_month": "December 2024",
+        "original_question_number": "6. a)",
+        "table": null,
+        "matrix": null,
+        "graph": null
+      },
+      {
+        "serial_number": "Q.80",
+        "question_text": "Describe the circuit and performance of CMOS inverter and state the characteristics of CMOS.",
+        "exam_year_month": "December 2024",
+        "original_question_number": "7. a)",
+        "table": null,
+        "matrix": null,
+        "graph": null
+      },
+      {
+        "serial_number": "Q.81",
+        "question_text": "Draw the circuit diagram of Schmitt trigger and explain its working.",
+        "exam_year_month": "December 2024",
+        "original_question_number": "7. b)",
+        "table": null,
+        "matrix": null,
+        "graph": null
+      },
+      {
+        "serial_number": "Q.82",
+        "question_text": "Draw and explain the PMOS, NMOS and CMOS logic.",
+        "exam_year_month": "December 2023",
+        "original_question_number": "4. a)",
+        "table": null,
+        "matrix": null,
+        "graph": null
+      },
+      {
+        "serial_number": "Q.83",
+        "question_text": "Explain how a Schmitt Trigger circuit works with a neat diagram. Design an Schmitt trigger with $$V_{UT} = 2V, V_{LT} = -1V$$. Assume $$+V_{sat} = +13V, -V_{sat} = -13V$$.",
+        "exam_year_month": "December 2023",
+        "original_question_number": "4. b)",
+        "table": null,
+        "matrix": null,
+        "graph": null
+      },
+      {
+        "serial_number": "Q.84",
+        "question_text": "Derive the frequency of oscillation of an astable multivibrator using IC 555 timer.",
+        "exam_year_month": "December 2023",
+        "original_question_number": "7. a)",
+        "table": null,
+        "matrix": null,
+        "graph": null
+      },
+      {
+        "serial_number": "Q.85",
+        "question_text": "An 8-bit D/A converter has a resolution of $$10mV/bit$$. Find the analog output voltage for the inputs i) 10001010 ii) 00010000",
+        "exam_year_month": "December 2023",
+        "original_question_number": "8. a)",
+        "table": null,
+        "matrix": null,
+        "graph": null
+      },
+      {
+        "serial_number": "Q.86",
+        "question_text": "Describe the operation of dual slope A/D converter with necessary diagrams.",
+        "exam_year_month": "December 2023",
+        "original_question_number": "8. b)",
+        "table": null,
+        "matrix": null,
+        "graph": null
+      },
+      {
+        "serial_number": "Q.87",
+        "question_text": "Explain the working of a Sample and Hold circuit with neat diagram. Why is it required in ADC systems?",
+        "exam_year_month": "December 2025",
+        "original_question_number": "5. (b)",
+        "table": null,
+        "matrix": null,
+        "graph": null
+      },
+      {
+        "serial_number": "Q.88",
+        "question_text": "Explain the internal block diagram and working of IC 555 Timer. Discuss any two applications of IC 555.",
+        "exam_year_month": "December 2025",
+        "original_question_number": "6. (a)",
+        "table": null,
+        "matrix": null,
+        "graph": null
+      },
+      {
+        "serial_number": "Q.89",
+        "question_text": "Explain the need for interfacing between TTL and MOS logic. Discuss TTL-to-CMOS interfacing techniques.",
+        "exam_year_month": "December 2025",
+        "original_question_number": "6. (b)",
+        "table": null,
+        "matrix": null,
+        "graph": null
+      }
+    ]
+  },
+  {
+    "unit": "UNIT-05",
+    "questions": [
+      {
+        "serial_number": "Q.90",
+        "question_text": "Explain the procedure of Pulse code modulation with neat diagram?",
+        "exam_year_month": "December 2020",
+        "original_question_number": "7. b)",
+        "table": null,
+        "matrix": null,
+        "graph": null
+      },
+      {
+        "serial_number": "Q.91",
+        "question_text": "What are the advantages of TDM over FDM? Define synchronous TDM?",
+        "exam_year_month": "December 2020",
+        "original_question_number": "8. a)",
+        "table": null,
+        "matrix": null,
+        "graph": null
+      },
+      {
+        "serial_number": "Q.92",
+        "question_text": "Compare the BPSK and BFSK modulation schemes.",
+        "exam_year_month": "December 2020",
+        "original_question_number": "8. b)",
+        "table": null,
+        "matrix": null,
+        "graph": null
+      },
+      {
+        "serial_number": "Q.93",
+        "question_text": "Shannon's theorem for channel capacity",
+        "exam_year_month": "November 2022",
+        "original_question_number": "8. iii)",
+        "table": null,
+        "matrix": null,
+        "graph": null
+      },
+      {
+        "serial_number": "Q.94",
+        "question_text": "Nyquist sampling theorem",
+        "exam_year_month": "November 2022",
+        "original_question_number": "8. iv)",
+        "table": null,
+        "matrix": null,
+        "graph": null
+      },
+      {
+        "serial_number": "Q.95",
+        "question_text": "With the help of Block diagram explain the working of BPSK modulation scheme.",
+        "exam_year_month": "June 2023",
+        "original_question_number": "7. a)",
+        "table": null,
+        "matrix": null,
+        "graph": null
+      },
+      {
+        "serial_number": "Q.96",
+        "question_text": "What do you understand by Multiplexing? Explain the working principle of Time Division Multiplexing with suitable diagram.",
+        "exam_year_month": "June 2023",
+        "original_question_number": "7. b)",
+        "table": null,
+        "matrix": null,
+        "graph": null
+      },
+      {
+        "serial_number": "Q.97",
+        "question_text": "Write a short note on PCM.",
+        "exam_year_month": "December 2024",
+        "original_question_number": "8. a)",
+        "table": null,
+        "matrix": null,
+        "graph": null
+      },
+      {
+        "serial_number": "Q.98",
+        "question_text": "Explain the geometrical representation of Non-orthogonal BFSK.",
+        "exam_year_month": "December 2024",
+        "original_question_number": "8. b)",
+        "table": null,
+        "matrix": null,
+        "graph": null
+      },
+      {
+        "serial_number": "Q.99",
+        "question_text": "What is mutual information and how it is related to channel capacity? For a standard voice band communication channel the signal to noise ratio is 30dB and transmission bandwidth is 3 KHz. What will be the Shannon limit for information in bits/sec?",
+        "exam_year_month": "December 2023",
+        "original_question_number": "5. a)",
+        "table": null,
+        "matrix": null,
+        "graph": null
+      },
+      {
+        "serial_number": "Q.100",
+        "question_text": "Explain BFSK modulation schemes.",
+        "exam_year_month": "December 2023",
+        "original_question_number": "5. b)",
+        "table": null,
+        "matrix": null,
+        "graph": null
+      },
+      {
+        "serial_number": "Q.101",
+        "question_text": "Explain Time Division Multiplexing (TDM) with block diagram. Differentiate between synchronous and asynchronous TDM.",
+        "exam_year_month": "December 2025",
+        "original_question_number": "7. (a)",
+        "table": null,
+        "matrix": null,
+        "graph": null
+      },
+      {
+        "serial_number": "Q.102",
+        "question_text": "Explain quantization process and quantization error in PCM. How can quantization noise be reduced.",
+        "exam_year_month": "December 2025",
+        "original_question_number": "7. (b)",
+        "table": null,
+        "matrix": null,
+        "graph": null
+      },
+      {
+        "serial_number": "Q.103",
+        "question_text": "Shannon's Channel Capacity Theorem",
+        "exam_year_month": "December 2025",
+        "original_question_number": "8. (d)",
+        "table": null,
+        "matrix": null,
+        "graph": null
+      }
+    ]
+  }
+]
