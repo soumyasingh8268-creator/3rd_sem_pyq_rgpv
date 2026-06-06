@@ -1,1 +1,1333 @@
-
+[
+  {
+    "unit": "UNIT-01",
+    "questions": [
+      {
+        "serial_number": "Q.1",
+        "question_text": "What do you understand by Asymptotic notation? Explain each notation with example and diagram.",
+        "exam_year_month": "June 2020",
+        "original_question_number": "1. a)",
+        "table": null,
+        "matrix": null,
+        "graph": null
+      },
+      {
+        "serial_number": "Q.2",
+        "question_text": "Explain different non primitive data structure and the operation associated with them.",
+        "exam_year_month": "June 2020",
+        "original_question_number": "1. b)",
+        "table": null,
+        "matrix": null,
+        "graph": null
+      },
+      {
+        "serial_number": "Q.3",
+        "question_text": "Explain various algorithm used in data structure.",
+        "exam_year_month": "June 2020",
+        "original_question_number": "2. a)",
+        "table": null,
+        "matrix": null,
+        "graph": null
+      },
+      {
+        "serial_number": "Q.4",
+        "question_text": "Provide the solution for the following recurrences: $$T(n) = 2T(n/2) + n \\log n$$",
+        "exam_year_month": "June 2020",
+        "original_question_number": "2. b)",
+        "table": null,
+        "matrix": null,
+        "graph": null
+      },
+      {
+        "serial_number": "Q.5",
+        "question_text": "Explain outline and offline algorithm.",
+        "exam_year_month": "June 2020",
+        "original_question_number": "5. b)",
+        "table": null,
+        "matrix": null,
+        "graph": null
+      },
+      {
+        "serial_number": "Q.6",
+        "question_text": "What do you understand by data structure maintenance? Explain.",
+        "exam_year_month": "June 2020",
+        "original_question_number": "7. a)",
+        "table": null,
+        "matrix": null,
+        "graph": null
+      },
+      {
+        "serial_number": "Q.7",
+        "question_text": "Explain Augmentation strategy with example.",
+        "exam_year_month": "June 2020",
+        "original_question_number": "7. b)",
+        "table": null,
+        "matrix": null,
+        "graph": null
+      },
+      {
+        "serial_number": "Q.8",
+        "question_text": "How do you find the complexity of an algorithm? What is the relation between the time and space complexities of an algorithm? Justify your answer with an example.",
+        "exam_year_month": "December 2020",
+        "original_question_number": "1. a)",
+        "table": null,
+        "matrix": null,
+        "graph": null
+      },
+      {
+        "serial_number": "Q.9",
+        "question_text": "Write a program to print out the elements of a singly linked list?",
+        "exam_year_month": "December 2020",
+        "original_question_number": "1. b)",
+        "table": null,
+        "matrix": null,
+        "graph": null
+      },
+      {
+        "serial_number": "Q.10",
+        "question_text": "Explain various algorithm used in data structure.",
+        "exam_year_month": "December 2020",
+        "original_question_number": "2. a)",
+        "table": null,
+        "matrix": null,
+        "graph": null
+      },
+      {
+        "serial_number": "Q.11",
+        "question_text": "Provide the solution for the following recurrences: $$T(n) = 2T(n/2) + n \\log n$$",
+        "exam_year_month": "December 2020",
+        "original_question_number": "2. b)",
+        "table": null,
+        "matrix": null,
+        "graph": null
+      },
+      {
+        "serial_number": "Q.12",
+        "question_text": "Explain basic file operations with example.",
+        "exam_year_month": "December 2020",
+        "original_question_number": "7. a)",
+        "table": null,
+        "matrix": null,
+        "graph": null
+      },
+      {
+        "serial_number": "Q.13",
+        "question_text": "What are the different operations performed on data structures? Explain.",
+        "exam_year_month": "November 2022",
+        "original_question_number": "1. a)",
+        "table": null,
+        "matrix": null,
+        "graph": null
+      },
+      {
+        "serial_number": "Q.14",
+        "question_text": "How linked list is represented in memory? Explain.",
+        "exam_year_month": "November 2022",
+        "original_question_number": "1. b)",
+        "table": null,
+        "matrix": null,
+        "graph": null
+      },
+      {
+        "serial_number": "Q.15",
+        "question_text": "Explain briefly about the Circular Linked list and it operations.",
+        "exam_year_month": "November 2022",
+        "original_question_number": "3. a)",
+        "table": null,
+        "matrix": null,
+        "graph": null
+      },
+      {
+        "serial_number": "Q.16",
+        "question_text": "What are the different abstract data types? Explain.",
+        "exam_year_month": "June 2023",
+        "original_question_number": "1. a)",
+        "table": null,
+        "matrix": null,
+        "graph": null
+      },
+      {
+        "serial_number": "Q.17",
+        "question_text": "What is a linked list. explain its operations with examples.",
+        "exam_year_month": "June 2023",
+        "original_question_number": "1. b)",
+        "table": null,
+        "matrix": null,
+        "graph": null
+      },
+      {
+        "serial_number": "Q.18",
+        "question_text": "Write an algorithm for insert and delete operations in circular linked list.",
+        "exam_year_month": "June 2023",
+        "original_question_number": "3. a)",
+        "table": null,
+        "matrix": null,
+        "graph": null
+      },
+      {
+        "serial_number": "Q.19",
+        "question_text": "What is the worst-case complexity of each of the following code fragments? i) Two Loops in a row: for (i = 0; i < N; i++) { Sequence of statements } for (j = 0; j < M; j++) { Sequence of statements } How would the complexity change if the second loop went to N instead of M?",
+        "exam_year_month": "December 2023",
+        "original_question_number": "1. a) i)",
+        "table": null,
+        "matrix": null,
+        "graph": null
+      },
+      {
+        "serial_number": "Q.20",
+        "question_text": "What is the worst-case complexity of each of the following code fragments? ii) A nested loop followed by a non-nested loop: for (i = 0; i < N; i++) { for (j = 0; j < N; j++) { Sequence of statements } } for (k = 0; k < M; k++) { Sequence of statements }",
+        "exam_year_month": "December 2023",
+        "original_question_number": "1. a) ii)",
+        "table": null,
+        "matrix": null,
+        "graph": null
+      },
+      {
+        "serial_number": "Q.21",
+        "question_text": "What is ADT? Compute the addresses of a 3-D array in a row and column major form?",
+        "exam_year_month": "December 2023",
+        "original_question_number": "1. b)",
+        "table": null,
+        "matrix": null,
+        "graph": null
+      },
+      {
+        "serial_number": "Q.22",
+        "question_text": "Consider the following function that takes reference to head of a Doubly Linked List as parameter. Assume that a node of doubly linked list has previous pointer as prev and next Pointer as next. Void fun (struct node ** head-ref) { struct node * temp=NULL; struct node * current= *head-ref; while(current !=NULL) { temp=current->prev; current -> prev =current - > next; current->next=temp; current = current -> prev; } if(temp!=NULL) *head_ref=temp-prev; } Assume that reference of head of following doubly linked list is passed to above function 1<-->2<-->3<-->4<-->5<-->6, what should be the modified linked list after the function call?",
+        "exam_year_month": "December 2023",
+        "original_question_number": "2. a)",
+        "table": null,
+        "matrix": null,
+        "graph": null
+      },
+      {
+        "serial_number": "Q.23",
+        "question_text": "Describe the performance of the algorithms used to multiply two N x N matrices using suitable measures of complexity. You should make clear what operations you are counting, what is the worst-case that you are considering, (and, perhaps, average-case, and best-case, where appropriate). Also consider space complexity?",
+        "exam_year_month": "December 2023",
+        "original_question_number": "4. b)",
+        "table": null,
+        "matrix": null,
+        "graph": null
+      },
+      {
+        "serial_number": "Q.24",
+        "question_text": "Describe Asymptotic notation in detail.",
+        "exam_year_month": "June 2024",
+        "original_question_number": "1. a)",
+        "table": null,
+        "matrix": null,
+        "graph": null
+      },
+      {
+        "serial_number": "Q.25",
+        "question_text": "Write an algorithm for insert and delete operations in circular linked list.",
+        "exam_year_month": "June 2024",
+        "original_question_number": "3. a)",
+        "table": null,
+        "matrix": null,
+        "graph": null
+      },
+      {
+        "serial_number": "Q.26",
+        "question_text": "Write an algorithm for traversing nodes in a single linked list? Explain with an example.",
+        "exam_year_month": "December 2024",
+        "original_question_number": "1. a)",
+        "table": null,
+        "matrix": null,
+        "graph": null
+      },
+      {
+        "serial_number": "Q.27",
+        "question_text": "Define data structures. Classify different types of data structures.",
+        "exam_year_month": "December 2024",
+        "original_question_number": "1. b)",
+        "table": null,
+        "matrix": null,
+        "graph": null
+      },
+      {
+        "serial_number": "Q.28",
+        "question_text": "Compare and contrast the characteristics of arrays and linked lists as abstract data types.",
+        "exam_year_month": "December 2024",
+        "original_question_number": "2. a)",
+        "table": null,
+        "matrix": null,
+        "graph": null
+      },
+      {
+        "serial_number": "Q.29",
+        "question_text": "Describe the concept of a dynamic array and how it differs from a static array in terms of memory management and flexibility.",
+        "exam_year_month": "December 2024",
+        "original_question_number": "2. b)",
+        "table": null,
+        "matrix": null,
+        "graph": null
+      },
+      {
+        "serial_number": "Q.30",
+        "question_text": "Explain the classification of data structures in detail.",
+        "exam_year_month": "December 2025",
+        "original_question_number": "1. (a)",
+        "table": null,
+        "matrix": null,
+        "graph": null
+      },
+      {
+        "serial_number": "Q.31",
+        "question_text": "Define Abstract Data Types (ADT). Explain the different operations performed on data structures and describe the criteria for cost estimation.",
+        "exam_year_month": "December 2025",
+        "original_question_number": "1. (b)",
+        "table": null,
+        "matrix": null,
+        "graph": null
+      },
+      {
+        "serial_number": "Q.32",
+        "question_text": "Describe the memory representation of a Singly Linked List. Write an algorithm to insert a node at a specific position in a linked list.",
+        "exam_year_month": "December 2025",
+        "original_question_number": "2. (a)",
+        "table": null,
+        "matrix": null,
+        "graph": null
+      },
+      {
+        "serial_number": "Q.33",
+        "question_text": "Circular Linked Lists",
+        "exam_year_month": "December 2025",
+        "original_question_number": "8. (a)",
+        "table": null,
+        "matrix": null,
+        "graph": null
+      }
+    ]
+  },
+  {
+    "unit": "UNIT-02",
+    "questions": [
+      {
+        "serial_number": "Q.34",
+        "question_text": "Explain the operations performed on stack with a program.",
+        "exam_year_month": "November 2022",
+        "original_question_number": "2. a)",
+        "table": null,
+        "matrix": null,
+        "graph": null
+      },
+      {
+        "serial_number": "Q.35",
+        "question_text": "Convert the following infix to post fix expression. A + B - C * D * E $ F $ G",
+        "exam_year_month": "November 2022",
+        "original_question_number": "2. b)",
+        "table": null,
+        "matrix": null,
+        "graph": null
+      },
+      {
+        "serial_number": "Q.36",
+        "question_text": "Queue using linked list",
+        "exam_year_month": "November 2022",
+        "original_question_number": "8. i)",
+        "table": null,
+        "matrix": null,
+        "graph": null
+      },
+      {
+        "serial_number": "Q.37",
+        "question_text": "Post fix expression evaluation",
+        "exam_year_month": "November 2022",
+        "original_question_number": "8. iv)",
+        "table": null,
+        "matrix": null,
+        "graph": null
+      },
+      {
+        "serial_number": "Q.38",
+        "question_text": "Differentiate between the stack and queue.",
+        "exam_year_month": "June 2023",
+        "original_question_number": "2. a)",
+        "table": null,
+        "matrix": null,
+        "graph": null
+      },
+      {
+        "serial_number": "Q.39",
+        "question_text": "Write a 'C' program to convert the infix expression to postfix expression.",
+        "exam_year_month": "June 2023",
+        "original_question_number": "2. b)",
+        "table": null,
+        "matrix": null,
+        "graph": null
+      },
+      {
+        "serial_number": "Q.40",
+        "question_text": "Stack using linked list",
+        "exam_year_month": "June 2023",
+        "original_question_number": "8. i)",
+        "table": null,
+        "matrix": null,
+        "graph": null
+      },
+      {
+        "serial_number": "Q.41",
+        "question_text": "Priority queue",
+        "exam_year_month": "June 2023",
+        "original_question_number": "8. iv)",
+        "table": null,
+        "matrix": null,
+        "graph": null
+      },
+      {
+        "serial_number": "Q.42",
+        "question_text": "Transform the following expression in Postfix Notation: A + (B + D) / E - F * (G + H/K)",
+        "exam_year_month": "December 2023",
+        "original_question_number": "3. b) i)",
+        "table": null,
+        "matrix": null,
+        "graph": null
+      },
+      {
+        "serial_number": "Q.43",
+        "question_text": "Evaluate the following postfix expression: ABC * D /+ where A = 2, B = 3, C = 4, D = 6",
+        "exam_year_month": "December 2023",
+        "original_question_number": "3. b) ii)",
+        "table": null,
+        "matrix": null,
+        "graph": null
+      },
+      {
+        "serial_number": "Q.44",
+        "question_text": "Write an algorithm to enque and deque an element in a queue? The queue implementation using a linked list?",
+        "exam_year_month": "December 2023",
+        "original_question_number": "3. a)",
+        "table": null,
+        "matrix": null,
+        "graph": null
+      },
+      {
+        "serial_number": "Q.45",
+        "question_text": "What do you mean by tower of Hanoi Problem? Explain with suitable example along with diagram?",
+        "exam_year_month": "December 2023",
+        "original_question_number": "7. a)",
+        "table": null,
+        "matrix": null,
+        "graph": null
+      },
+      {
+        "serial_number": "Q.46",
+        "question_text": "What is Recursion? Explain in detail with example.",
+        "exam_year_month": "June 2024",
+        "original_question_number": "1. b)",
+        "table": null,
+        "matrix": null,
+        "graph": null
+      },
+      {
+        "serial_number": "Q.47",
+        "question_text": "Differentiate between the stack and queue.",
+        "exam_year_month": "June 2024",
+        "original_question_number": "2. a)",
+        "table": null,
+        "matrix": null,
+        "graph": null
+      },
+      {
+        "serial_number": "Q.48",
+        "question_text": "Write a 'C' program to convert the infix expression to postfix expression.",
+        "exam_year_month": "June 2024",
+        "original_question_number": "2. b)",
+        "table": null,
+        "matrix": null,
+        "graph": null
+      },
+      {
+        "serial_number": "Q.49",
+        "question_text": "How can you convert an infix expression to postfix expression using stack? Give one example.",
+        "exam_year_month": "June 2024",
+        "original_question_number": "4. a)",
+        "table": null,
+        "matrix": null,
+        "graph": null
+      },
+      {
+        "serial_number": "Q.50",
+        "question_text": "Queue using linked list",
+        "exam_year_month": "June 2024",
+        "original_question_number": "8. i)",
+        "table": null,
+        "matrix": null,
+        "graph": null
+      },
+      {
+        "serial_number": "Q.51",
+        "question_text": "Post fix expression evaluation",
+        "exam_year_month": "June 2024",
+        "original_question_number": "8. iv)",
+        "table": null,
+        "matrix": null,
+        "graph": null
+      },
+      {
+        "serial_number": "Q.52",
+        "question_text": "Write an algorithm which reverses the order of elements on stack using one additional stack and some additional variables.",
+        "exam_year_month": "December 2024",
+        "original_question_number": "3. a)",
+        "table": null,
+        "matrix": null,
+        "graph": null
+      },
+      {
+        "serial_number": "Q.53",
+        "question_text": "Explain the addition and deletion operations performed on a circular queue with necessary algorithms.",
+        "exam_year_month": "December 2024",
+        "original_question_number": "3. b)",
+        "table": null,
+        "matrix": null,
+        "graph": null
+      },
+      {
+        "serial_number": "Q.54",
+        "question_text": "Write an algorithm for Push and Pop operations on Stack using linked list.",
+        "exam_year_month": "December 2024",
+        "original_question_number": "4. a)",
+        "table": null,
+        "matrix": null,
+        "graph": null
+      },
+      {
+        "serial_number": "Q.55",
+        "question_text": "What is a DeQueue? Explain its operation with example.",
+        "exam_year_month": "December 2024",
+        "original_question_number": "4. b)",
+        "table": null,
+        "matrix": null,
+        "graph": null
+      },
+      {
+        "serial_number": "Q.56",
+        "question_text": "Define Stack as an ADT. Explain the array and linked list implementation of stacks.",
+        "exam_year_month": "December 2025",
+        "original_question_number": "2. (b)",
+        "table": null,
+        "matrix": null,
+        "graph": null
+      },
+      {
+        "serial_number": "Q.57",
+        "question_text": "Explain the algorithm to convert an Infix expression to a Postfix notation using a stack.",
+        "exam_year_month": "December 2025",
+        "original_question_number": "3. (a)",
+        "table": null,
+        "matrix": null,
+        "graph": null
+      },
+      {
+        "serial_number": "Q.58",
+        "question_text": "Explain the concept of Queue simulation with a real-world example.",
+        "exam_year_month": "December 2025",
+        "original_question_number": "3. (b)",
+        "table": null,
+        "matrix": null,
+        "graph": null
+      }
+    ]
+  },
+  {
+    "unit": "UNIT-03",
+    "questions": [
+      {
+        "serial_number": "Q.59",
+        "question_text": "Explain the AVL tree insert method and explain. Why its insertion time complexity is still of the same order as binary tree?",
+        "exam_year_month": "June 2020",
+        "original_question_number": "3.",
+        "table": null,
+        "matrix": null,
+        "graph": null
+      },
+      {
+        "serial_number": "Q.60",
+        "question_text": "Construct an AVL search tree by inserting the following element in order of their occurrence 64, 1, 44, 26, 13, 110, 98, 85",
+        "exam_year_month": "June 2020",
+        "original_question_number": "4. a)",
+        "table": null,
+        "matrix": null,
+        "graph": null
+      },
+      {
+        "serial_number": "Q.61",
+        "question_text": "Explain analysis of Heap operation with example.",
+        "exam_year_month": "June 2020",
+        "original_question_number": "4. b)",
+        "table": null,
+        "matrix": null,
+        "graph": null
+      },
+      {
+        "serial_number": "Q.62",
+        "question_text": "Write short note on Internal trees. Explain with example.",
+        "exam_year_month": "June 2020",
+        "original_question_number": "8. a)",
+        "table": null,
+        "matrix": null,
+        "graph": null
+      },
+      {
+        "serial_number": "Q.63",
+        "question_text": "Explain retrieving an element with a given rank.",
+        "exam_year_month": "June 2020",
+        "original_question_number": "8. b)",
+        "table": null,
+        "matrix": null,
+        "graph": null
+      },
+      {
+        "serial_number": "Q.64",
+        "question_text": "Explain AVL tree. Insert the following elements in AVL search tree. 48 25 10 5 7 3 28 20 8 16",
+        "exam_year_month": "December 2020",
+        "original_question_number": "3. a)",
+        "table": null,
+        "matrix": null,
+        "graph": null
+      },
+      {
+        "serial_number": "Q.65",
+        "question_text": "Explain Red Black Trees also discuss the properties of Red Black tree.",
+        "exam_year_month": "December 2020",
+        "original_question_number": "5. a)",
+        "table": null,
+        "matrix": null,
+        "graph": null
+      },
+      {
+        "serial_number": "Q.66",
+        "question_text": "What are the different terminologies used in the trees? Explain with suitable diagrams.",
+        "exam_year_month": "November 2022",
+        "original_question_number": "3. b)",
+        "table": null,
+        "matrix": null,
+        "graph": null
+      },
+      {
+        "serial_number": "Q.67",
+        "question_text": "Insert the following list of elements from the red black tree. Delete the elements 18, 2, 30 from the 12, 30, 36, 18, 25, 9, 4, 2, 17, 14, 20 and 47.",
+        "exam_year_month": "November 2022",
+        "original_question_number": "4.",
+        "table": null,
+        "matrix": null,
+        "graph": null
+      },
+      {
+        "serial_number": "Q.68",
+        "question_text": "Write a 'C' program, how to insert and delete elements in the Binary search tree?",
+        "exam_year_month": "November 2022",
+        "original_question_number": "5. a)",
+        "table": null,
+        "matrix": null,
+        "graph": null
+      },
+      {
+        "serial_number": "Q.69",
+        "question_text": "B+ tree",
+        "exam_year_month": "November 2022",
+        "original_question_number": "8. iii)",
+        "table": null,
+        "matrix": null,
+        "graph": null
+      },
+      {
+        "serial_number": "Q.70",
+        "question_text": "How a binary search tree is traversed? Explain with a suitable example.",
+        "exam_year_month": "June 2023",
+        "original_question_number": "3. b)",
+        "table": null,
+        "matrix": null,
+        "graph": null
+      },
+      {
+        "serial_number": "Q.71",
+        "question_text": "Insert the following list of elements from the avl tree. Delete the elements 18, 2, 30 from the 12, 30, 36, 18, 25, 9, 4, 2, 17, 14, 20 and 47.",
+        "exam_year_month": "June 2023",
+        "original_question_number": "4.",
+        "table": null,
+        "matrix": null,
+        "graph": null
+      },
+      {
+        "serial_number": "Q.72",
+        "question_text": "What is heap data structure ?explain its operations with a suitable example.",
+        "exam_year_month": "June 2023",
+        "original_question_number": "5. a)",
+        "table": null,
+        "matrix": null,
+        "graph": null
+      },
+      {
+        "serial_number": "Q.73",
+        "question_text": "B tree",
+        "exam_year_month": "June 2023",
+        "original_question_number": "8. iii)",
+        "table": null,
+        "matrix": null,
+        "graph": null
+      },
+      {
+        "serial_number": "Q.74",
+        "question_text": "Insert the following data keys in the AVL Tree: 16, 23, 9, 163, 64, 29, 73, 83, 90, 96 (10 keys)",
+        "exam_year_month": "December 2023",
+        "original_question_number": "3. c)",
+        "table": null,
+        "matrix": null,
+        "graph": null
+      },
+      {
+        "serial_number": "Q.75",
+        "question_text": "The in-order and pre-order traversal sequence of a node in a binary tree are given below: In-order: E A C K F H D B G Pre-order: F A E K C D H G B Draw the binary tree. State briefly the logic used to construct the tree.",
+        "exam_year_month": "December 2023",
+        "original_question_number": "4. a)",
+        "table": null,
+        "matrix": null,
+        "graph": null
+      },
+      {
+        "serial_number": "Q.76",
+        "question_text": "Is there any difference between threaded and unthreaded binary tree? What is a B-tree? Explain.",
+        "exam_year_month": "December 2023",
+        "original_question_number": "6. a)",
+        "table": null,
+        "matrix": null,
+        "graph": null
+      },
+      {
+        "serial_number": "Q.77",
+        "question_text": "How a binary search tree is traversed? Explain with a suitable example.",
+        "exam_year_month": "June 2024",
+        "original_question_number": "3. b)",
+        "table": null,
+        "matrix": null,
+        "graph": null
+      },
+      {
+        "serial_number": "Q.78",
+        "question_text": "Write functions to implement recursive versions of preorder, inorder and postorder traversals of a binary tree.",
+        "exam_year_month": "June 2024",
+        "original_question_number": "4. b)",
+        "table": null,
+        "matrix": null,
+        "graph": null
+      },
+      {
+        "serial_number": "Q.79",
+        "question_text": "Write a 'C' program, how to insert and delete elements in the Binary search tree?",
+        "exam_year_month": "June 2024",
+        "original_question_number": "5. a)",
+        "table": null,
+        "matrix": null,
+        "graph": null
+      },
+      {
+        "serial_number": "Q.80",
+        "question_text": "B+ tree",
+        "exam_year_month": "June 2024",
+        "original_question_number": "8. iii)",
+        "table": null,
+        "matrix": null,
+        "graph": null
+      },
+      {
+        "serial_number": "Q.81",
+        "question_text": "Construct an expression tree for the expression (a+b*c) + ((d*e+f)*g). Apply inorder, preorder and postorder traversals on tree.",
+        "exam_year_month": "December 2024",
+        "original_question_number": "5. a)",
+        "table": null,
+        "matrix": null,
+        "graph": null
+      },
+      {
+        "serial_number": "Q.82",
+        "question_text": "Create a binary search tree for the following numbers 45, 26, 10, 60, 70, 30, 40. Start from an empty binary search tree. Delete keys 10, 60 and 45 one after the other and show the trees at each stage.",
+        "exam_year_month": "December 2024",
+        "original_question_number": "5. b)",
+        "table": null,
+        "matrix": null,
+        "graph": null
+      },
+      {
+        "serial_number": "Q.83",
+        "question_text": "Describe the algorithms used to perform single and double rotation on AVL tree.",
+        "exam_year_month": "December 2024",
+        "original_question_number": "6. a)",
+        "table": null,
+        "matrix": null,
+        "graph": null
+      },
+      {
+        "serial_number": "Q.84",
+        "question_text": "Red Black Tree",
+        "exam_year_month": "December 2024",
+        "original_question_number": "8. b) iii)",
+        "table": null,
+        "matrix": null,
+        "graph": null
+      },
+      {
+        "serial_number": "Q.85",
+        "question_text": "Define a Binary Search Tree (BST). Explain the algorithms for In-order, Pre-order, and Post-order traversal with an example.",
+        "exam_year_month": "December 2025",
+        "original_question_number": "4. (a)",
+        "table": null,
+        "matrix": null,
+        "graph": null
+      },
+      {
+        "serial_number": "Q.86",
+        "question_text": "What are AVL Trees? Explain the four types of rotations (LL, RR, LR, RL) used to balance an AVL tree.",
+        "exam_year_month": "December 2025",
+        "original_question_number": "4. (b)",
+        "table": null,
+        "matrix": null,
+        "graph": null
+      },
+      {
+        "serial_number": "Q.87",
+        "question_text": "Define the following tree terminologies: Height, Depth, Degree of a node, and Forest.",
+        "exam_year_month": "December 2025",
+        "original_question_number": "5. (a)",
+        "table": null,
+        "matrix": null,
+        "graph": null
+      },
+      {
+        "serial_number": "Q.88",
+        "question_text": "B+ Trees",
+        "exam_year_month": "December 2025",
+        "original_question_number": "8. (c)",
+        "table": null,
+        "matrix": null,
+        "graph": null
+      }
+    ]
+  },
+  {
+    "unit": "UNIT-04",
+    "questions": [
+      {
+        "serial_number": "Q.89",
+        "question_text": "Discuss Kruskal's algorithm with an following graph.",
+        "exam_year_month": "November 2022",
+        "original_question_number": "5. b)",
+        "table": null,
+        "matrix": null,
+        "graph": {
+          "vertices": ["0", "1", "2", "3", "4", "5", "6", "7", "8"],
+          "edges": [
+            {"from": "0", "to": "1", "weight": 4},
+            {"from": "0", "to": "7", "weight": 8},
+            {"from": "1", "to": "2", "weight": 8},
+            {"from": "1", "to": "7", "weight": 11},
+            {"from": "2", "to": "3", "weight": 7},
+            {"from": "2", "to": "8", "weight": 2},
+            {"from": "2", "to": "5", "weight": 4},
+            {"from": "3", "to": "4", "weight": 9},
+            {"from": "3", "to": "5", "weight": 14},
+            {"from": "4", "to": "5", "weight": 10},
+            {"from": "5", "to": "6", "weight": 2},
+            {"from": "6", "to": "7", "weight": 1},
+            {"from": "6", "to": "8", "weight": 6},
+            {"from": "7", "to": "8", "weight": 7}
+          ]
+        }
+      },
+      {
+        "serial_number": "Q.90",
+        "question_text": "Solve BFS and DFS traversal of following graph.",
+        "exam_year_month": "November 2022",
+        "original_question_number": "6. a)",
+        "table": null,
+        "matrix": null,
+        "graph": {
+          "vertices": ["1", "2", "3", "4", "5", "6", "7", "8"],
+          "edges": [
+            {"from": "1", "to": "2"},
+            {"from": "1", "to": "3"},
+            {"from": "1", "to": "4"},
+            {"from": "2", "to": "5"},
+            {"from": "3", "to": "5"},
+            {"from": "4", "to": "6"},
+            {"from": "4", "to": "7"},
+            {"from": "5", "to": "8"},
+            {"from": "6", "to": "8"},
+            {"from": "7", "to": "8"}
+          ]
+        }
+      },
+      {
+        "serial_number": "Q.91",
+        "question_text": "Discuss Prims algorithm with an following graph.",
+        "exam_year_month": "November 2022",
+        "original_question_number": "6. b)",
+        "table": null,
+        "matrix": null,
+        "graph": {
+          "vertices": ["0", "1", "2", "3", "4"],
+          "edges": [
+            {"from": "0", "to": "4", "weight": 4},
+            {"from": "0", "to": "1", "weight": 8},
+            {"from": "1", "to": "4", "weight": 6},
+            {"from": "1", "to": "2", "weight": 3},
+            {"from": "4", "to": "2", "weight": 5},
+            {"from": "4", "to": "3", "weight": 7},
+            {"from": "2", "to": "3", "weight": 9}
+          ]
+        }
+      },
+      {
+        "serial_number": "Q.92",
+        "question_text": "Compare and contrast bfs and dfs.",
+        "exam_year_month": "June 2023",
+        "original_question_number": "6. a)",
+        "table": null,
+        "matrix": null,
+        "graph": null
+      },
+      {
+        "serial_number": "Q.93",
+        "question_text": "Discuss kruskals algorithm with an following graph.",
+        "exam_year_month": "June 2023",
+        "original_question_number": "6. b)",
+        "table": null,
+        "matrix": null,
+        "graph": {
+          "vertices": ["0", "1", "2", "3", "4", "5", "6", "7", "8"],
+          "edges": [
+            {"from": "0", "to": "1", "weight": 4},
+            {"from": "0", "to": "7", "weight": 8},
+            {"from": "1", "to": "2", "weight": 8},
+            {"from": "1", "to": "7", "weight": 11},
+            {"from": "2", "to": "3", "weight": 7},
+            {"from": "2", "to": "8", "weight": 2},
+            {"from": "2", "to": "5", "weight": 4},
+            {"from": "3", "to": "4", "weight": 9},
+            {"from": "3", "to": "5", "weight": 14},
+            {"from": "4", "to": "5", "weight": 10},
+            {"from": "5", "to": "6", "weight": 2},
+            {"from": "6", "to": "7", "weight": 1},
+            {"from": "6", "to": "8", "weight": 6},
+            {"from": "7", "to": "8", "weight": 7}
+          ]
+        }
+      },
+      {
+        "serial_number": "Q.94",
+        "question_text": "Write Prim's algorithm to get minimal spanning tree out of a graph?",
+        "exam_year_month": "December 2023",
+        "original_question_number": "1. c)",
+        "table": null,
+        "matrix": null,
+        "graph": null
+      },
+      {
+        "serial_number": "Q.95",
+        "question_text": "For the graph shown below find the following: i) Adjacency list representation ii) Adjacency matrix representation iii) Adjacency multi list representation",
+        "exam_year_month": "December 2023",
+        "original_question_number": "6. b)",
+        "table": null,
+        "matrix": null,
+        "graph": {
+          "vertices": ["A", "B", "C", "D", "E", "F"],
+          "edges": [
+            {"from": "A", "to": "B"},
+            {"from": "A", "to": "C"},
+            {"from": "A", "to": "D"},
+            {"from": "B", "to": "E"},
+            {"from": "C", "to": "D"},
+            {"from": "D", "to": "E"},
+            {"from": "D", "to": "F"},
+            {"from": "E", "to": "F"}
+          ]
+        }
+      },
+      {
+        "serial_number": "Q.96",
+        "question_text": "Write algorithms for DFS and BFS traversal on a graph.",
+        "exam_year_month": "December 2023",
+        "original_question_number": "7. b)",
+        "table": null,
+        "matrix": null,
+        "graph": null
+      },
+      {
+        "serial_number": "Q.97",
+        "question_text": "Discuss Kruskal's algorithm with an following graph.",
+        "exam_year_month": "June 2024",
+        "original_question_number": "5. b)",
+        "table": null,
+        "matrix": null,
+        "graph": {
+          "vertices": ["0", "1", "2", "3", "4", "5", "6", "7", "8"],
+          "edges": [
+            {"from": "0", "to": "1", "weight": 4},
+            {"from": "0", "to": "7", "weight": 8},
+            {"from": "1", "to": "2", "weight": 8},
+            {"from": "1", "to": "7", "weight": 11},
+            {"from": "2", "to": "3", "weight": 7},
+            {"from": "2", "to": "8", "weight": 2},
+            {"from": "2", "to": "5", "weight": 4},
+            {"from": "3", "to": "4", "weight": 9},
+            {"from": "3", "to": "5", "weight": 14},
+            {"from": "4", "to": "5", "weight": 10},
+            {"from": "5", "to": "6", "weight": 2},
+            {"from": "6", "to": "7", "weight": 1},
+            {"from": "6", "to": "8", "weight": 6},
+            {"from": "7", "to": "8", "weight": 7}
+          ]
+        }
+      },
+      {
+        "serial_number": "Q.98",
+        "question_text": "Differentiate between Depth first search and Breadth First search algorithm.",
+        "exam_year_month": "December 2024",
+        "original_question_number": "6. b)",
+        "table": null,
+        "matrix": null,
+        "graph": null
+      },
+      {
+        "serial_number": "Q.99",
+        "question_text": "Define minimum spanning tree. Write down Prim's algorithm to find minimum spanning tree.",
+        "exam_year_month": "December 2024",
+        "original_question_number": "7. a)",
+        "table": null,
+        "matrix": null,
+        "graph": null
+      },
+      {
+        "serial_number": "Q.100",
+        "question_text": "Explain the Adjacency Matrix and Adjacency List representations of a graph.",
+        "exam_year_month": "December 2025",
+        "original_question_number": "5. (b)",
+        "table": null,
+        "matrix": null,
+        "graph": null
+      },
+      {
+        "serial_number": "Q.101",
+        "question_text": "Describe the Depth First Search (DFS) and Breadth First Search (BFS) algorithms for graph traversal with examples.",
+        "exam_year_month": "December 2025",
+        "original_question_number": "6. (a)",
+        "table": null,
+        "matrix": null,
+        "graph": null
+      },
+      {
+        "serial_number": "Q.102",
+        "question_text": "What is a Minimum Spanning Tree (MST)? Explain Kruskal’s or Prim’s algorithm to find the MST of a weighted graph.",
+        "exam_year_month": "December 2025",
+        "original_question_number": "6. (b)",
+        "table": null,
+        "matrix": null,
+        "graph": null
+      },
+      {
+        "serial_number": "Q.103",
+        "question_text": "Dijkstra’s shortest path algorithm",
+        "exam_year_month": "December 2025",
+        "original_question_number": "8. (d)",
+        "table": null,
+        "matrix": null,
+        "graph": null
+      }
+    ]
+  },
+  {
+    "unit": "UNIT-05",
+    "questions": [
+      {
+        "serial_number": "Q.104",
+        "question_text": "What is a stable sorting algorithm? Also prove counting sort is stable.",
+        "exam_year_month": "June 2020",
+        "original_question_number": "5. a)",
+        "table": null,
+        "matrix": null,
+        "graph": null
+      },
+      {
+        "serial_number": "Q.105",
+        "question_text": "Suppose the elements in the array are A = < 2, 13, 5, 18, 14, 20 > Does this array can be represent in INSERTION SORTING justify your answer with all the steps.",
+        "exam_year_month": "June 2020",
+        "original_question_number": "6.",
+        "table": null,
+        "matrix": null,
+        "graph": null
+      },
+      {
+        "serial_number": "Q.106",
+        "question_text": "Explain Hash function and symbol table in detail.",
+        "exam_year_month": "December 2020",
+        "original_question_number": "3. b)",
+        "table": null,
+        "matrix": null,
+        "graph": null
+      },
+      {
+        "serial_number": "Q.107",
+        "question_text": "What do you understand by Merge sort? Write the algorithm to sort using merge sort. Take an example to explain your answer.",
+        "exam_year_month": "December 2020",
+        "original_question_number": "4.",
+        "table": null,
+        "matrix": null,
+        "graph": null
+      },
+      {
+        "serial_number": "Q.108",
+        "question_text": "What do you mean by Sorting? Discuss the need for sorting.",
+        "exam_year_month": "December 2020",
+        "original_question_number": "5. b)",
+        "table": null,
+        "matrix": null,
+        "graph": null
+      },
+      {
+        "serial_number": "Q.109",
+        "question_text": "Suppose the elements in the array are A = < 2, 13, 5, 18, 14, 20 > Does this array can be represent in INSERTION SORTING justify your answer with all the steps.",
+        "exam_year_month": "December 2020",
+        "original_question_number": "6.",
+        "table": null,
+        "matrix": null,
+        "graph": null
+      },
+      {
+        "serial_number": "Q.110",
+        "question_text": "Differentiate between direct file organization and sequential file organization.",
+        "exam_year_month": "December 2020",
+        "original_question_number": "7. b)",
+        "table": null,
+        "matrix": null,
+        "graph": null
+      },
+      {
+        "serial_number": "Q.111",
+        "question_text": "Write short note on Quick sort. Radix sort and Bucket sort with example.",
+        "exam_year_month": "December 2020",
+        "original_question_number": "8. a)",
+        "table": null,
+        "matrix": null,
+        "graph": null
+      },
+      {
+        "serial_number": "Q.112",
+        "question_text": "Sort using quick sort algorithm 36, 25, 32, 5, 8, 65, 38, 47, 95",
+        "exam_year_month": "December 2020",
+        "original_question_number": "8. b)",
+        "table": null,
+        "matrix": null,
+        "graph": null
+      },
+      {
+        "serial_number": "Q.113",
+        "question_text": "Explain bubble sort algorithm and simulate it for the following data 35, 33, 42, 10, 14, 19, 27, 44.",
+        "exam_year_month": "November 2022",
+        "original_question_number": "7. a)",
+        "table": null,
+        "matrix": null,
+        "graph": null
+      },
+      {
+        "serial_number": "Q.114",
+        "question_text": "Explain Binary search and simulate it for the following data 4, 21, 36, 14, 62, 91, 8, 22, 81, 77, 10.",
+        "exam_year_month": "November 2022",
+        "original_question_number": "7. b)",
+        "table": null,
+        "matrix": null,
+        "graph": null
+      },
+      {
+        "serial_number": "Q.115",
+        "question_text": "Hashing",
+        "exam_year_month": "November 2022",
+        "original_question_number": "8. ii)",
+        "table": null,
+        "matrix": null,
+        "graph": null
+      },
+      {
+        "serial_number": "Q.116",
+        "question_text": "Sort the following list of elements 30, 56, 78, 99, 12, 43, 10, 24, 85 by using merge sort.",
+        "exam_year_month": "June 2023",
+        "original_question_number": "5. b)",
+        "table": null,
+        "matrix": null,
+        "graph": null
+      },
+      {
+        "serial_number": "Q.117",
+        "question_text": "Explain shell sort algorithm and simulate it for the following data 35, 33, 42, 10, 14, 19, 27, 44.",
+        "exam_year_month": "June 2023",
+        "original_question_number": "7. a)",
+        "table": null,
+        "matrix": null,
+        "graph": null
+      },
+      {
+        "serial_number": "Q.118",
+        "question_text": "Explain sequential search and simulate it for the following data 4, 21, 36, 14, 62, 91, 8, 22, 81, 77, 10.",
+        "exam_year_month": "June 2023",
+        "original_question_number": "7. b)",
+        "table": null,
+        "matrix": null,
+        "graph": null
+      },
+      {
+        "serial_number": "Q.119",
+        "question_text": "Indexing",
+        "exam_year_month": "June 2023",
+        "original_question_number": "8. ii)",
+        "table": null,
+        "matrix": null,
+        "graph": null
+      },
+      {
+        "serial_number": "Q.120",
+        "question_text": "Sort the following data in ascending order using Quick sort: 9, 4, 12, 6, 5, 10, 7",
+        "exam_year_month": "December 2023",
+        "original_question_number": "5. a) i)",
+        "table": null,
+        "matrix": null,
+        "graph": null
+      },
+      {
+        "serial_number": "Q.121",
+        "question_text": "Prove that Heap sort, Merge sort, Quick sort takes O(n log n) time in the worst case?",
+        "exam_year_month": "December 2023",
+        "original_question_number": "5. a) ii)",
+        "table": null,
+        "matrix": null,
+        "graph": null
+      },
+      {
+        "serial_number": "Q.122",
+        "question_text": "Apply Binary Search to find 123 in the following list: 49, 98, 101, 123, 149, 194, 199, 211, 240, 286, 840, 930 (12 data)",
+        "exam_year_month": "December 2023",
+        "original_question_number": "5. b)",
+        "table": null,
+        "matrix": null,
+        "graph": null
+      },
+      {
+        "serial_number": "Q.123",
+        "question_text": "Given the values {2341, 4234, 2839, 430, 22, 397, 3920} a hash table of size 7 and a hash function h(x) = x mod 7, show the resulting table after inserting the values in the given order with each of the following collision strategies. i) separate chaining ii) linear probing iii) double hashing with second hash function $h_1(x) = (2x-1) \\mod 7$",
+        "exam_year_month": "December 2023",
+        "original_question_number": "8.",
+        "table": null,
+        "matrix": null,
+        "graph": null
+      },
+      {
+        "serial_number": "Q.124",
+        "question_text": "Explain shell sort algorithm and simulate it for the following data 35, 33, 42, 10, 14, 19, 27, 44.",
+        "exam_year_month": "June 2024",
+        "original_question_number": "6. a)",
+        "table": null,
+        "matrix": null,
+        "graph": null
+      },
+      {
+        "serial_number": "Q.125",
+        "question_text": "Explain sequential search and simulate it for the following data 4, 21, 36, 14, 62, 91, 8, 22, 81, 77, 10.",
+        "exam_year_month": "June 2024",
+        "original_question_number": "6. b)",
+        "table": null,
+        "matrix": null,
+        "graph": null
+      },
+      {
+        "serial_number": "Q.126",
+        "question_text": "Explain Multiway Merge sort with an example.",
+        "exam_year_month": "June 2024",
+        "original_question_number": "7. a)",
+        "table": null,
+        "matrix": null,
+        "graph": null
+      },
+      {
+        "serial_number": "Q.127",
+        "question_text": "What do you mean by sorting? Describe the need for sorting.",
+        "exam_year_month": "June 2024",
+        "original_question_number": "7. b)",
+        "table": null,
+        "matrix": null,
+        "graph": null
+      },
+      {
+        "serial_number": "Q.128",
+        "question_text": "Hashing",
+        "exam_year_month": "June 2024",
+        "original_question_number": "8. ii)",
+        "table": null,
+        "matrix": null,
+        "graph": null
+      },
+      {
+        "serial_number": "Q.129",
+        "question_text": "Sort the following elements using quick sort : 55, 72, 12, 45, 88, 38, 27, 33, 91, 80.",
+        "exam_year_month": "December 2024",
+        "original_question_number": "7. b)",
+        "table": null,
+        "matrix": null,
+        "graph": null
+      },
+      {
+        "serial_number": "Q.130",
+        "question_text": "Apply Binary search to search 36 in following list : 21, 12, 36, 32, 38, 23, 56, 83, 92, 5, 10, 15.",
+        "exam_year_month": "December 2024",
+        "original_question_number": "8. a)",
+        "table": null,
+        "matrix": null,
+        "graph": null
+      },
+      {
+        "serial_number": "Q.131",
+        "question_text": "Hashing and Indexing",
+        "exam_year_month": "December 2024",
+        "original_question_number": "8. b) i)",
+        "table": null,
+        "matrix": null,
+        "graph": null
+      },
+      {
+        "serial_number": "Q.132",
+        "question_text": "Heap Sort",
+        "exam_year_month": "December 2024",
+        "original_question_number": "8. b) ii)",
+        "table": null,
+        "matrix": null,
+        "graph": null
+      },
+      {
+        "serial_number": "Q.133",
+        "question_text": "Explain the Quick Sort algorithm with suitable example.",
+        "exam_year_month": "December 2025",
+        "original_question_number": "7. (a)",
+        "table": null,
+        "matrix": null,
+        "graph": null
+      },
+      {
+        "serial_number": "Q.134",
+        "question_text": "Explain Binary Search with an example.",
+        "exam_year_month": "December 2025",
+        "original_question_number": "7. (b)",
+        "table": null,
+        "matrix": null,
+        "graph": null
+      },
+      {
+        "serial_number": "Q.135",
+        "question_text": "Linear Probing and Chaining",
+        "exam_year_month": "December 2025",
+        "original_question_number": "8. (b)",
+        "table": null,
+        "matrix": null,
+        "graph": null
+      }
+    ]
+  }
+]
